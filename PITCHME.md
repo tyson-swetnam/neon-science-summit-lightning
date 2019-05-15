@@ -13,7 +13,7 @@
 +++
 <img src="https://purepng.com/public/uploads/large/purepng.com-lemonlemoncitrus-limoyellow-fruitjuicelemonade-1701527236535iw9tf.png" height="200">
 
-<span style="font-size: 250%; color:#FF0000"> Act I: Hey kid, here's some lidar data </span> 
+<span style="font-size: 250%; color:#FFFF00"> Act I: Hey kid, here's some lidar data </span> 
 
 +++
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/US-NationalParkService-Logo.svg/1000px-US-NationalParkService-Logo.svg.png" height="200">
@@ -59,7 +59,7 @@ Wildland Firefighter → Forest Ecologist
 
 <img src="https://purepng.com/public/uploads/large/purepng.com-lemonlemoncitrus-limoyellow-fruitjuicelemonade-1701527236535iw9tf.png" height="200">
 
-<span style="font-size: 250%; color:#0000FF"> Act II: Postdoctoral Blues </span> 
+<span style="font-size: 250%; color:#00FFFF"> Act II: Postdoctoral Blues </span> 
 
 ---?image=https://en.wikipedia.org/wiki/Critical_Zone_Observatories#/media/File:Czone_chorover_et_al_catalina_jemez_czo.png
 <span style="font-size: 250%; color:#FF0000"> Challenge: Identifying THE science question(s) to ask </span>
@@ -133,36 +133,12 @@ sUAS SfM
 
 <span style="font-size: 100%; color:#F9FF33"> Big Data → Requires massive computer processing </span> <!-- .element: class="fragment" -->
 
-
----
+---?image=assets/imagery/meta.jpg
+---?image=assets/imagery/agisoft_network.png
 
 <img src="https://purepng.com/public/uploads/large/purepng.com-lemonlemoncitrus-limoyellow-fruitjuicelemonade-1701527236535iw9tf.png" height="200">
 
 <span style="font-size: 150%; color:#F9FF33"> Act III: Cyberinfrastructure </span>
-
----?image=https://wol-prod-cdn.literatumonline.com/cms/attachment/e4ecd5f8-d7f6-41a1-9984-c23a09db5b33/ecs21797-fig-0003-m.jpg
-
----
-
-<span style="font-size: 250%; color:#FF0000"> Challenge: Reviewer #2 says we need to do a comprehensive uncertainty analysis of our forest census </span>
-
----
-
-<span style="font-size: 150%; color:#F9FF33"> Solution: Reproducible notebooks </span>
-
-Analyzed data in CyVerse|XSEDE Jetstream, share work with collaborators at other institutions, work in R notebooks.
-
----?image=https://media.giphy.com/media/uKpWZU3VXLprW/giphy.gif
-<span style="font-weight: bold; font-size: 200%; color:#FFFFFF"> Negotiating Cyberinfrastructure </span>
-
----?image=https://media.giphy.com/media/GkQBupPcf5b1e/giphy.gif
-<span style="font-weight: bold; font-size: 250%; color:##FFFF00"> NOT YOUR LAPTOP OR DESKTOP </span>
-
----
-
-<span style="font-size: 250%; color:#FF0000"> Challenge: No one in my old community knows what I do </span>
-
----
 
 ---?image=https://media.giphy.com/media/1SMYk3HBzaK3e/giphy.gif
 @snap[west text-smallcaps text-white]
@@ -174,26 +150,37 @@ sUAS
 @snapend
 +++
 
+---?image=https://wol-prod-cdn.literatumonline.com/cms/attachment/e4ecd5f8-d7f6-41a1-9984-c23a09db5b33/ecs21797-fig-0003-m.jpg
+
+---?image=https://media.giphy.com/media/uKpWZU3VXLprW/giphy.gif
+<span style="font-weight: bold; font-size: 200%; color:#FFFFFF"> Peer Review </span>
+
+<span style="font-size: 200%; color:#FF0000"> Challenge: Reviewer #2 → comprehensive uncertainty analyses required </span>
+
+<span style="font-size: 150%; color:#F9FF33"> Solution: Reproducible notebooks </span>
+
+Analyze data in CyVerse|XSEDE Jetstream, share work with collaborators at other institutions, work in R notebooks.
+
+---?image=https://media.giphy.com/media/GkQBupPcf5b1e/giphy.gif
+<span style="font-weight: bold; font-size: 250%; color:##FFFFFF"> NOT YOUR LAPTOP OR DESKTOP </span>
+
+<span style="font-size: 200%; color:#FF0000"> Challenge: No one in my old community knows what I do </span>
+
+---
+
+
 ---?image=https://media.giphy.com/media/wUCgLRvDdtWs8/giphy.gif
 # Have Workflow, Will Travel
 
++++
+<span style="font-weight: bold; font-size: 150%; color:#FF0000"> NEON </span>
+<src image="assets/imagery/neon-camp.jpg" height="400"> 
 
 +++
-<span style="font-weight: bold; font-size: 150%; color:#FF0000">Graphical User Interfaces </span>
- 
-- Need more computing power than a laptop </span>
-- Cannot afford to buy a $5,000 workstation </span>
-
----?image=assets/imagery/dockerhub_ubuntu_xfce.png
----?image=assets/imagery/metashape.jpg
-
-+++
-<span style="font-weight: bold; font-size: 150%; color:#F0FF00"> Power Users </span>
+<span style="font-weight: bold; font-size: 150%; color:#F0FF00"> Challenge </span>
 
 - Interest in scaling workflow beyond the laptop / desktop onto HPC and Cloud </span>
 - Need to run 10s to 1,000s of jobs (sUAS flights) across a large geographic area </span>
-
----?image=assets/imagery/agisoft_network.png
 
 +++
 
