@@ -75,7 +75,7 @@ Identify THE science question(s) to ask
 <span style="font-size: 150%; color:#F9FF33"> "Solution" across disciplines: Concentration Discharge relationships → Landscape and Topographic Carbon Balances </span>
 
 +++
-![Video](https://youtu.be/1JEl0PZc9bk)
+![Video](https://www.youtube.com/embed/1JEl0PZc9bk)
 +++
 
 ---?image=https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif
