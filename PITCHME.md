@@ -16,10 +16,12 @@
 <span style="font-size: 250%; color:#FF0000"> Act I: Hey kid, here's some lidar data </span> 
 
 +++
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/US-NationalParkService-Logo.svg/1000px-US-NationalParkService-Logo.svg.png" height="300">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/ForestServiceLogoOfficial.svg/941px-ForestServiceLogoOfficial.svg.png" height="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/US-NationalParkService-Logo.svg/1000px-US-NationalParkService-Logo.svg.png" height="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/ForestServiceLogoOfficial.svg/941px-ForestServiceLogoOfficial.svg.png" height="200">
 
 Wildland Firefighter → Forest Ecologist 
+<img src="assets/imagery/tyson.jpg" height="200"><img src="assets/imagery/rushmore.jpg" height="200">
+
 
 ---?image=https://wiki.cyverse.org/wiki/download/attachments/18188179/example_fig.png
 
