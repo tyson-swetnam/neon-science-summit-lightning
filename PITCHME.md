@@ -8,7 +8,7 @@
 +++
 
 ---?image=http://tile.loc.gov/image-services/iiif/service:gmd:gmd433:g4333:g4333p:la000006/full/pct:25/0/default.jpg
-<span style="font-size: 300%; color:#000000">A ROADMAP </span>
+<span style="font-size: 300%; color:#000000">ROADMAP </span>
 
 +++
 <img src="https://purepng.com/public/uploads/large/purepng.com-lemonlemoncitrus-limoyellow-fruitjuicelemonade-1701527236535iw9tf.png" height="200">
@@ -19,7 +19,7 @@
 
 <span style="font-size: 150%; color:#F9FF33"> Act III: Cyberinfrastructure </span>
 
-<span style="font-size: 150%; color:#F9FF33"> Act IV: ? </span> 
+<span style="font-size: 150%; color:#FFFFFF"> Act IV: ? </span> 
 
 +++
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/US-NationalParkService-Logo.svg/1000px-US-NationalParkService-Logo.svg.png" height="300">
@@ -33,15 +33,15 @@ Wildland Firefighter → Forest Ecologist
 
 ---
 
-Challenge: No teachers, access to data, processing, storage
+<span style="font-size: 250%; color:#FF0000"> Challenge: No teachers, access to data, processing, storage </span>
 
 ---
 
-Solution: Reach out, found peer groups, developed a mentoring network
+<span style="font-size: 150%; color:#F9FF33"> Solution: Reach out, found peer groups, developed a mentoring network </span>
 
-Solution: Time (national data repositories and cloud storage came around, eventually)
+<span style="font-size: 150%; color:#F9FF33"> Solution: Time → national data repositories and cloud storage came around, eventually </span>
 
-Failure: Self-taught -> Time wasted
+<span style="font-size: 150%; color:#FF0000"> Failure: Self-taught → Time wasted </span>
 
 ---
 
@@ -51,19 +51,29 @@ Failure: Self-taught -> Time wasted
 
 ---?image=https://en.wikipedia.org/wiki/Critical_Zone_Observatories#/media/File:Czone_chorover_et_al_catalina_jemez_czo.png
 
-Challenge: Identifying THE science question(s) to ask
+<span style="font-size: 250%; color:#FF0000"> Challenge: Identifying THE science question(s) to ask </span>
 
 ---
 
-"Solution" across disciplines: Concentration Discharge relationships → Landscape and Topographic Carbon Balances
+<span style="font-size: 150%; color:#F9FF33"> "Solution" across disciplines: Concentration Discharge relationships → Landscape and Topographic Carbon Balances </span>
 
 ---
 
-Failure: Adoption by CZO scientists?
+<span style="font-size: 250%; color:#FF0000"> Failure: Adoption by CZO scientists </span>
 
 ---
 
-...A chance encounter with a guy who liked mangoes.
+2014 All Hands Meeting
+
+<img src="https://www.earthcube.org/sites/default/files/pictures/AMS2014_EarthCube.jpg" height="400">
+
+---?image=https://media.giphy.com/media/9uI9WOCm7WCf4wwhro/giphy.gif
+
+---?image=https://media.giphy.com/media/iOXMcT2qEiIUg/giphy.gif
+
+---
+
+<span style="font-size: 150%; color:#F9FF33"> ...A chance encounter with a guy who liked mangoes. </span>
 
 <img src="https://cdn.uanews.arizona.edu/s3fs-public/styles/2015_story_featured_fp/public/story-images/Merch%201.jpg" height="300">
 
