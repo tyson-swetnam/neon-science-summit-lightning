@@ -1,6 +1,6 @@
 logo: assets/imagery/cyverse_globe_white.png
 background-size: cover
-theme: moon
+#theme: moon
 transition: fade
 background-size : "95% 95%"
 footnote : "CyVerse - <a href='https://cyverse.org'>Learn More</a>"
