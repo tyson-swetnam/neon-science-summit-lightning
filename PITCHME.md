@@ -40,7 +40,7 @@ access to data limited processing, storage
 
 <span style="font-size: 150%; color:#FFFF00"> Solution: Time </span> 
 
-→ national data repositories and cloud storage came around, eventually
+→ national data repositories and cloud storage, eventually → https://usgs.entwine.io/
 
 <span style="font-size: 150%; color:#FF0000"> Failure: Self-taught → Time wasted </span>
 
