@@ -23,7 +23,7 @@ Wildland Firefighter → Forest Ecologist
 
 ---?image=https://wiki.cyverse.org/wiki/download/attachments/18188179/example_fig.png
 
----?image=https://ebbcff1d-a-32ed3923-s-sites.googlegroups.com/a/email.arizona.edu/tyson-swetnam/home/uofa.png
+---?image=https://ebbcff1d-a-32ed3923-s-sites.googlegroups.com/a/email.arizona.edu/tyson-swetnam/home/uofa.png?attachauth=ANoY7cqugMu-Plzde85F0Sn9j50xRQBqGEQr30otlU7G98YNqt1adVwkvIQ_z8MrjKV6jAB5D3iPEysNQe0hAvTP63xpRveHvfXNRfZYZ8qR72kRAiZLsQ-tmBJKiq-_SXksetm3MjqhCEBacmjSOnbcNODapKvNkc39De8mWdrudNcaATBFdpNJYVwmftP6JmvvigyxwnXh7jluQIMUJQB21JN7qoL-yw%3D%3D&attredirects=0
 
 ---
 
@@ -35,9 +35,9 @@ Wildland Firefighter → Forest Ecologist
 
 ---
 
-## Budget Control Act 2011 → Budget Sequester 2013
+### Budget Control Act 2011 → Budget Sequester 2013
 
-<img src="https://media.giphy.com/media/b7MdMkkFCyCWI/giphy.gif" height="600">
+<img src="https://media.giphy.com/media/b7MdMkkFCyCWI/giphy.gif" height="500">
 
 ---?image=https://ebbcff1d-a-32ed3923-s-sites.googlegroups.com/a/email.arizona.edu/tyson-swetnam/research/pina_defoliate.png
 
