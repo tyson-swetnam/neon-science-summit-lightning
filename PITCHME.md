@@ -38,7 +38,9 @@
 
 <span style="font-size: 150%; color:#FFFF00"> Solution: Reach out, found peer groups, developed a mentoring network </span>
 
-<span style="font-size: 150%; color:#FFFF00"> Solution: Time </span> → national data repositories and cloud storage came around, eventually
+<span style="font-size: 150%; color:#FFFF00"> Solution: Time </span> 
+
+→ national data repositories and cloud storage came around, eventually
 
 <span style="font-size: 150%; color:#FF0000"> Failure: Self-taught → Time wasted </span>
 
@@ -136,6 +138,7 @@ sUAS SfM
 +++
 
 <img src="https://purepng.com/public/uploads/large/purepng.com-lemonlemoncitrus-limoyellow-fruitjuicelemonade-1701527236535iw9tf.png" height="200">
+
 <span style="font-size: 150%; color:#F9FF33"> Act III: Cyberinfrastructure </span>
 
 ---?image=https://media.giphy.com/media/1SMYk3HBzaK3e/giphy.gif
@@ -163,7 +166,7 @@ sUAS
 Analyze data in CyVerse|XSEDE Jetstream, share work with collaborators at other institutions, work in R notebooks.
 
 ---?image=https://media.giphy.com/media/GkQBupPcf5b1e/giphy.gif
-<span style="font-weight: bold; font-size: 250%; color:##FFFFFF"> NOT YOUR LAPTOP OR DESKTOP </span>
+<span style="font-weight: bold; font-size: 250%; color:#FFFFFF"> NOT YOUR LAPTOP OR DESKTOP </span>
 
 +++
 <span style="font-size: 200%; color:#FF0000"> Challenge: No one in my old community knows what I do </span>
@@ -172,8 +175,8 @@ Analyze data in CyVerse|XSEDE Jetstream, share work with collaborators at other 
 # Have Workflow, Will Travel
 
 +++
-<span style="font-weight: bold; font-size: 150%; color:#FF0000"> NEON </span>
-<src image="assets/imagery/neon-camp.jpg" height="400"> 
+# NEON 
+<img src="assets/imagery/neon-camp.jpg" height="400"> 
 
 +++
 <span style="font-weight: bold; font-size: 150%; color:#F0FF00"> Challenges </span>
