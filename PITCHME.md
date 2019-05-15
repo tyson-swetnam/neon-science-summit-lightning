@@ -240,6 +240,6 @@ Battelle-NEON self pwn January 2019 ends foundational collaboration with leaders
 
 GIFs by Giphy.com
 
-All digital images shown this presentation are available online and are the property of their creators, their web addresses are visible in the source code of this presentation at: https://github.com/tyson-swetnma/usgs-uav-weibnar/PITCHME.md 
+All digital images shown this presentation are available online and are the property of their creators, their web addresses are visible in the source code of this presentation at: https://github.com/tyson-swetnam/lemon-labs/PITCHME.md 
 
 ---?image=assets/imagery/endslide.png
