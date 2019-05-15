@@ -197,9 +197,13 @@ https://github.com/cyverse-gis/NEON-Shiny-Browser
 
 +++
 
-### Failure: (Attempting) To Teach cloud, containers, notebooks in one afternoon
+<span style="font-size: 150%; color:#FF0000"> Failure: </span>
 
-### Failure: Battelle-NEON self pwn January 2019 ends foundational collaboration with leadership.
+(Attempting) To Teach cloud, containers, notebooks in one afternoon
+
+<img src="https://www.sciencemag.org/sites/default/files/styles/inline__699w__no_aspect/public/ca0118NID_NEON_Toolik-Lake_online.jpg" width="400">
+
+Battelle-NEON self pwn January 2019 ends foundational collaboration with leadership.
 
 +++
 
