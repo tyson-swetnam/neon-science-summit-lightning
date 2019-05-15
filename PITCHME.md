@@ -1,23 +1,14 @@
 ---?image=https://media.giphy.com/media/iFdLJEHEHaSNG/giphy.gif
-<span style="font-weight: bold; font-size: 200%; color:#FFFF00"> LEMON LABS
-<span style="font-weight: bold; font-size: 100%; color:#FFFF00"> May 16, 2019 </span> 
+<span style="font-weight: bold; font-size: 200%; color:#000000"> LEMON LABS
 
-<span style="font-weight: bold; font-size: 120%; color:#FFFF00"> Tyson L. Swetnam </span> 
-<img src="assets/imagery/cyverse_white.png" width="500">
+<span style="font-weight: bold; font-size: 100%; color:#000000"> May 16, 2019 </span> 
+
+<span style="font-weight: bold; font-size: 120%; color:#000000"> Tyson L. Swetnam </span>
+
 +++
 
-### My Contact Info
-
-email: tswetnam@cyverse.org
-
-github id: [tyson-swetnam](https://github.com/tyson-swetnam) & [cyverse-gis](https://github.com/cyverse-gis)
-
-twitter: @tswetnam
-
-talk link: https://github.com/tyson-swetnam/usgs-uav-webinar/ 
-
 ---?image=http://tile.loc.gov/image-services/iiif/service:gmd:gmd433:g4333:g4333p:la000006/full/pct:25/0/default.jpg
-<span style="font-size: 300%; color:#000000">TODAY'S ROADMAP </span>
+<span style="font-size: 300%; color:#000000">A ROADMAP </span>
 
 +++
 <img src="https://purepng.com/public/uploads/large/purepng.com-lemonlemoncitrus-limoyellow-fruitjuicelemonade-1701527236535iw9tf.png" height="200">
@@ -27,13 +18,29 @@ talk link: https://github.com/tyson-swetnam/usgs-uav-webinar/
 <span style="font-size: 150%; color:#F9FF33"> Act IV: ? </span> 
 
 +++
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/US-NationalParkService-Logo.svg/1000px-US-NationalParkService-Logo.svg.png" height="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/ForestServiceLogoOfficial.svg/941px-ForestServiceLogoOfficial.svg.png" height="200">
 
+Wildland Firefighter → Forest Ecologist 
 
+---?image=https://wiki.cyverse.org/wiki/download/attachments/18188179/example_fig.png
 
-+++
-<span style="font-size: 200%; color:#FF0000"> Do all the things </span>
+---?image=https://ebbcff1d-a-32ed3923-s-sites.googlegroups.com/a/email.arizona.edu/tyson-swetnam/home/uofa.png
 
-<img src="http://rank-all-the-things.herokuapp.com/images/all_the_things.png" height="300"> 
+---
+
+Challenge: No teachers, access to data, processing, storage
+
+---
+
+Solution:
+
+Failures:
+
+---
+
+<img src="https://ebbcff1d-a-32ed3923-s-sites.googlegroups.com/a/email.arizona.edu/tyson-swetnam/research/MCN.png" height="200">
+
 
 ---?image=https://media.giphy.com/media/1SMYk3HBzaK3e/giphy.gif
 @snap[west text-smallcaps text-white]
