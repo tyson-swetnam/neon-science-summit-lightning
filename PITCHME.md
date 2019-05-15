@@ -1,8 +1,8 @@
----?image=https://media.giphy.com/media/6OWhb32If4hCU/giphy.gif
+---?image=https://media.giphy.com/media/iFdLJEHEHaSNG/giphy.gif
 <span style="font-weight: bold; font-size: 200%; color:#FFFF00"> LEMON LABS
 <span style="font-weight: bold; font-size: 100%; color:#FFFF00"> May 16, 2019 </span> 
 
-<span style="font-weight: bold; font-size: 120%; color:#FFFF00"> Tyson Lee Swetnam Ph.D. </span> 
+<span style="font-weight: bold; font-size: 120%; color:#FFFF00"> Tyson L. Swetnam </span> 
 <img src="assets/imagery/cyverse_white.png" width="500">
 +++
 
@@ -20,15 +20,17 @@ talk link: https://github.com/tyson-swetnam/usgs-uav-webinar/
 <span style="font-size: 300%; color:#000000">TODAY'S ROADMAP </span>
 
 +++
-
-<span style="font-size: 150%; color:#FF0000"> (1) Hey kid, here's some lidar data. </span> <!-- .element: class="fragment" -->
-
-<span style="font-size: 150%; color:#0000FF"> 2) Postdoctoral blues </span> <!-- .element: class="fragment" -->
-
-<span style="font-size: 150%; color:#F9FF33"> 3) ~lidar~ → SfM-MVS! </span> <!-- .element: class="fragment" -->
+<img src="https://purepng.com/public/uploads/large/purepng.com-lemonlemoncitrus-limoyellow-fruitjuicelemonade-1701527236535iw9tf.png" height="200">
+<span style="font-size: 150%; color:#FF0000"> Act I: Hey kid, here's some lidar data </span> 
+<span style="font-size: 150%; color:#0000FF"> Act II: Postdoctoral Blues </span> 
+<span style="font-size: 150%; color:#F9FF33"> Act III: Cyberinfrastructure </span>
+<span style="font-size: 150%; color:#F9FF33"> Act IV: ? </span> 
 
 +++
 
+
+
++++
 <span style="font-size: 200%; color:#FF0000"> Do all the things </span>
 
 <img src="http://rank-all-the-things.herokuapp.com/images/all_the_things.png" height="300"> 
