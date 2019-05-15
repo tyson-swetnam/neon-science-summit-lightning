@@ -12,14 +12,18 @@
 
 +++
 <img src="https://purepng.com/public/uploads/large/purepng.com-lemonlemoncitrus-limoyellow-fruitjuicelemonade-1701527236535iw9tf.png" height="200">
+
 <span style="font-size: 150%; color:#FF0000"> Act I: Hey kid, here's some lidar data </span> 
+
 <span style="font-size: 150%; color:#0000FF"> Act II: Postdoctoral Blues </span> 
+
 <span style="font-size: 150%; color:#F9FF33"> Act III: Cyberinfrastructure </span>
+
 <span style="font-size: 150%; color:#F9FF33"> Act IV: ? </span> 
 
 +++
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/US-NationalParkService-Logo.svg/1000px-US-NationalParkService-Logo.svg.png" height="200">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/ForestServiceLogoOfficial.svg/941px-ForestServiceLogoOfficial.svg.png" height="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/US-NationalParkService-Logo.svg/1000px-US-NationalParkService-Logo.svg.png" height="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/ForestServiceLogoOfficial.svg/941px-ForestServiceLogoOfficial.svg.png" height="300">
 
 Wildland Firefighter → Forest Ecologist 
 
@@ -33,14 +37,51 @@ Challenge: No teachers, access to data, processing, storage
 
 ---
 
-Solution:
+Solution: Reach out, found peer groups, developed a mentoring network
 
-Failures:
+Solution: Time (national data repositories and cloud storage came around, eventually)
+
+Failure: Self-taught -> Time wasted
 
 ---
 
-<img src="https://ebbcff1d-a-32ed3923-s-sites.googlegroups.com/a/email.arizona.edu/tyson-swetnam/research/MCN.png" height="200">
+<img src="https://ebbcff1d-a-32ed3923-s-sites.googlegroups.com/a/email.arizona.edu/tyson-swetnam/research/MCN.png" height="100">
 
+---
+
+---?image=https://en.wikipedia.org/wiki/Critical_Zone_Observatories#/media/File:Czone_chorover_et_al_catalina_jemez_czo.png
+
+Challenge: Identifying THE science question(s) to ask
+
+---
+
+"Solution" across disciplines: Concentration Discharge relationships → Landscape and Topographic Carbon Balances
+
+---
+
+Failure: Adoption by CZO scientists?
+
+---
+
+...A chance encounter with a guy who liked mangoes.
+
+<img src="https://cdn.uanews.arizona.edu/s3fs-public/styles/2015_story_featured_fp/public/story-images/Merch%201.jpg" height="300">
+
+---
+
+---?image=https://wol-prod-cdn.literatumonline.com/cms/attachment/e4ecd5f8-d7f6-41a1-9984-c23a09db5b33/ecs21797-fig-0003-m.jpg
+
+---
+
+Challenge: Reviewer #2 says we need to do a comprehensive uncertainty analysis of our forest census
+
+---
+
+Solution: Reproducible notebooks
+
+Analyzed data in CyVerse|XSEDE Jetstream, share work with collaborators at other institutions, work in R notebooks.
+
+---
 
 ---?image=https://media.giphy.com/media/1SMYk3HBzaK3e/giphy.gif
 @snap[west text-smallcaps text-white]
