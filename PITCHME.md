@@ -29,7 +29,7 @@ Wildland Firefighter → Forest Ecologist
 
 ---?image=https://ebbcff1d-a-32ed3923-s-sites.googlegroups.com/a/email.arizona.edu/tyson-swetnam/home/uofa.png?attachauth=ANoY7cqugMu-Plzde85F0Sn9j50xRQBqGEQr30otlU7G98YNqt1adVwkvIQ_z8MrjKV6jAB5D3iPEysNQe0hAvTP63xpRveHvfXNRfZYZ8qR72kRAiZLsQ-tmBJKiq-_SXksetm3MjqhCEBacmjSOnbcNODapKvNkc39De8mWdrudNcaATBFdpNJYVwmftP6JmvvigyxwnXh7jluQIMUJQB21JN7qoL-yw%3D%3D&attredirects=0
 
----
++++
 
 <span style="font-size: 250%; color:#FF0000"> Challenges: </span> 
 
@@ -37,9 +37,7 @@ Wildland Firefighter → Forest Ecologist
 
 <span style="font-size: 150%; color:#FF0000"> access to data limited processing, storage </span>
 
----?image=https://ebbcff1d-a-32ed3923-s-sites.googlegroups.com/a/email.arizona.edu/tyson-swetnam/research/pina_defoliate.png
-
----
++++
 
 <span style="font-size: 150%; color:#F9FF33"> Solution: Reach out, found peer groups, developed a mentoring network </span>
 
@@ -53,9 +51,7 @@ Wildland Firefighter → Forest Ecologist
 
 <span style="font-size: 150%; color:#FF0000"> Failure: Student Temporary Experience Program ≠ Federal Scientist Career </span>
 
----
-
----
++++
 
 <img src="https://purepng.com/public/uploads/large/purepng.com-lemonlemoncitrus-limoyellow-fruitjuicelemonade-1701527236535iw9tf.png" height="200">
 
@@ -63,19 +59,18 @@ Wildland Firefighter → Forest Ecologist
 
 ---?image=https://en.wikipedia.org/wiki/Critical_Zone_Observatories#/media/File:Czone_chorover_et_al_catalina_jemez_czo.png
 <span style="font-size: 250%; color:#FF0000"> Challenge: Identifying THE science question(s) to ask </span>
-
----
++++
 
 <span style="font-size: 150%; color:#F9FF33"> "Solution" across disciplines: Concentration Discharge relationships → Landscape and Topographic Carbon Balances </span>
 
----
++++
 
 <span style="font-size: 250%; color:#FF0000"> Failure: Adoption by CZO scientists </span>
 
 ---?image=https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif
 <span style="font-size: 200%; color:#FFFFFF"> BIG DATA </span>
 
----
++++
 
 2014 All Hands Meeting
 
