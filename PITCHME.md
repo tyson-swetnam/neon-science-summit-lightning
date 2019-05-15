@@ -37,15 +37,7 @@ Wildland Firefighter → Forest Ecologist
 
 <span style="font-size: 150%; color:#FF0000"> access to data limited processing, storage </span>
 
----
-
-### Budget Control Act 2011 → Budget Sequester 2013
-
-<img src="https://media.giphy.com/media/b7MdMkkFCyCWI/giphy.gif" height="500">
-
 ---?image=https://ebbcff1d-a-32ed3923-s-sites.googlegroups.com/a/email.arizona.edu/tyson-swetnam/research/pina_defoliate.png
-
-<span style="font-size: 150%; color:#FF0000"> Failure: Student Temporary Experience Program ≠ Federal Scientist Career </span>
 
 ---
 
@@ -54,6 +46,14 @@ Wildland Firefighter → Forest Ecologist
 <span style="font-size: 150%; color:#F9FF33"> Solution: Time </span> → national data repositories and cloud storage came around, eventually
 
 <span style="font-size: 150%; color:#FF0000"> Failure: Self-taught → Time wasted </span>
+
+### Budget Control Act 2011 → Budget Sequester 2013
+
+<img src="https://media.giphy.com/media/b7MdMkkFCyCWI/giphy.gif" height="500">
+
+<span style="font-size: 150%; color:#FF0000"> Failure: Student Temporary Experience Program ≠ Federal Scientist Career </span>
+
+---
 
 ---
 
@@ -138,6 +138,8 @@ sUAS SfM
 
 <img src="https://purepng.com/public/uploads/large/purepng.com-lemonlemoncitrus-limoyellow-fruitjuicelemonade-1701527236535iw9tf.png" height="200">
 
++++
+
 <span style="font-size: 150%; color:#F9FF33"> Act III: Cyberinfrastructure </span>
 
 ---?image=https://media.giphy.com/media/1SMYk3HBzaK3e/giphy.gif
@@ -155,7 +157,10 @@ sUAS
 ---?image=https://media.giphy.com/media/uKpWZU3VXLprW/giphy.gif
 <span style="font-weight: bold; font-size: 200%; color:#FFFFFF"> Peer Review </span>
 
++++
 <span style="font-size: 200%; color:#FF0000"> Challenge: Reviewer #2 → comprehensive uncertainty analyses required </span>
+
++++
 
 <span style="font-size: 150%; color:#F9FF33"> Solution: Reproducible notebooks </span>
 
@@ -166,9 +171,6 @@ Analyze data in CyVerse|XSEDE Jetstream, share work with collaborators at other 
 
 <span style="font-size: 200%; color:#FF0000"> Challenge: No one in my old community knows what I do </span>
 
----
-
-
 ---?image=https://media.giphy.com/media/wUCgLRvDdtWs8/giphy.gif
 # Have Workflow, Will Travel
 
@@ -177,10 +179,22 @@ Analyze data in CyVerse|XSEDE Jetstream, share work with collaborators at other 
 <src image="assets/imagery/neon-camp.jpg" height="400"> 
 
 +++
-<span style="font-weight: bold; font-size: 150%; color:#F0FF00"> Challenge </span>
+<span style="font-weight: bold; font-size: 150%; color:#F0FF00"> Challenges </span>
 
-- Interest in scaling workflow beyond the laptop / desktop onto HPC and Cloud </span>
-- Need to run 10s to 1,000s of jobs (sUAS flights) across a large geographic area </span>
+- Drive adoption of CyVerse by NEON community </span>
+- Do all the things </span>
+
++++
+
+Solution: Demonstrate CyVerse abilities to them
+
+https://github.com/cyverse-gis/NEON-Shiny-Browser
+
++++
+
+### Failures: Failures: Teaching cloud, containers, notebooks in one afternoon
+
+### Failure: Battelle-NEON self pwn January 2019 ends foundational collaboration with leadership.
 
 +++
 
