@@ -183,8 +183,10 @@ Analyze data in CyVerse|XSEDE Jetstream, share work with collaborators at other 
 
 +++
 <img src="https://www.dataone.org/sites/default/files/neon_new.png" width="400">
-<img src="https://data.neonscience.org/neon-data-theme/images/logo--footer.png" width="200">
-<img src="assets/imagery/neon-camp.jpg" height="500"> 
+
+<img src="https://data.neonscience.org/neon-data-theme/images/logo--footer.png" width="300">
+
+<img src="assets/imagery/neon-camp.jpg" height="400"> 
 
 +++
 <span style="font-weight: bold; font-size: 150%; color:#F0FF00"> Challenges </span>
