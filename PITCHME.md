@@ -162,7 +162,9 @@ sUAS
 <span style="font-weight: bold; font-size: 200%; color:#FFFFFF"> Peer Review </span>
 
 +++
-<span style="font-size: 200%; color:#FF0000"> Challenge: Reviewer #2 → comprehensive uncertainty analyses required </span>
+<span style="font-size: 200%; color:#FF0000"> Challenge: </span>
+
+Reviewer #2 → comprehensive uncertainty analyses required
 
 +++
 
@@ -180,8 +182,9 @@ Analyze data in CyVerse|XSEDE Jetstream, share work with collaborators at other 
 # Have Workflow, Will Travel
 
 +++
-# NEON 
-<img src="assets/imagery/neon-camp.jpg" height="400"> 
+<img src="https://www.dataone.org/sites/default/files/neon_new.png" width="400">
+<img src="https://data.neonscience.org/neon-data-theme/images/logo--footer.png" width="200">
+<img src="assets/imagery/neon-camp.jpg" height="500"> 
 
 +++
 <span style="font-weight: bold; font-size: 150%; color:#F0FF00"> Challenges </span>
