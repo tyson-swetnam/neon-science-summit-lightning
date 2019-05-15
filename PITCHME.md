@@ -24,10 +24,7 @@ Wildland Firefighter → Forest Ecologist
 <img src="assets/imagery/tyson.jpg" height="200">
 <img src="assets/imagery/rushmore.jpg" height="200">
 
-
 ---?image=https://wiki.cyverse.org/wiki/download/attachments/18188179/example_fig.png
-
----?image=https://ebbcff1d-a-32ed3923-s-sites.googlegroups.com/a/email.arizona.edu/tyson-swetnam/home/uofa.png?attachauth=ANoY7cqugMu-Plzde85F0Sn9j50xRQBqGEQr30otlU7G98YNqt1adVwkvIQ_z8MrjKV6jAB5D3iPEysNQe0hAvTP63xpRveHvfXNRfZYZ8qR72kRAiZLsQ-tmBJKiq-_SXksetm3MjqhCEBacmjSOnbcNODapKvNkc39De8mWdrudNcaATBFdpNJYVwmftP6JmvvigyxwnXh7jluQIMUJQB21JN7qoL-yw%3D%3D&attredirects=0
 
 +++
 
@@ -39,17 +36,23 @@ Wildland Firefighter → Forest Ecologist
 
 +++
 
-<span style="font-size: 150%; color:#F9FF33"> Solution: Reach out, found peer groups, developed a mentoring network </span>
+<span style="font-size: 150%; color:#FFFF00"> Solution: Reach out, found peer groups, developed a mentoring network </span>
 
-<span style="font-size: 150%; color:#F9FF33"> Solution: Time </span> → national data repositories and cloud storage came around, eventually
+<span style="font-size: 150%; color:#FFFF00"> Solution: Time </span> → national data repositories and cloud storage came around, eventually
 
 <span style="font-size: 150%; color:#FF0000"> Failure: Self-taught → Time wasted </span>
+
++++
 
 ### Budget Control Act 2011 → Budget Sequester 2013
 
 <img src="https://media.giphy.com/media/b7MdMkkFCyCWI/giphy.gif" height="500">
 
-<span style="font-size: 150%; color:#FF0000"> Failure: Student Temporary Experience Program ≠ Federal Scientist Career </span>
++++
+
+<span style="font-size: 150%; color:#FF0000"> Failure: </span>
+  
+<span style="font-size: 150%; color:#FF0000"> Student Temporary Experience Program ≠ Federal Scientist Career </span>
 
 +++
 
@@ -57,15 +60,15 @@ Wildland Firefighter → Forest Ecologist
 
 <span style="font-size: 250%; color:#00FFFF"> Act II: Postdoctoral Blues </span> 
 
----?image=https://en.wikipedia.org/wiki/Critical_Zone_Observatories#/media/File:Czone_chorover_et_al_catalina_jemez_czo.png
-<span style="font-size: 250%; color:#FF0000"> Challenge: Identifying THE science question(s) to ask </span>
++++
+
+<img src="https://www.nsf.gov/news/newsmedia/ENV-discoveries/CZO-illus.jpg" height="600">
+<span style="font-size: 250%; color:#FF0000"> Challenge: Identify THE science question(s) to ask </span>
 +++
 
 <span style="font-size: 150%; color:#F9FF33"> "Solution" across disciplines: Concentration Discharge relationships → Landscape and Topographic Carbon Balances </span>
 
 +++
-
-<span style="font-size: 250%; color:#FF0000"> Failure: Adoption by CZO scientists </span>
 
 ---?image=https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif
 <span style="font-size: 200%; color:#FFFFFF"> BIG DATA </span>
