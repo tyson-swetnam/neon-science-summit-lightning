@@ -30,9 +30,9 @@
 
 <span style="font-size: 250%; color:#FF0000"> Challenges: </span> 
 
-<span style="font-size: 150%; color:#FF0000">No teachers </span> 
+No teachers
 
-<span style="font-size: 150%; color:#FF0000"> access to data limited processing, storage </span>
+access to data limited processing, storage 
 
 +++
 
@@ -54,7 +54,7 @@
 
 <span style="font-size: 150%; color:#FF0000"> Failure: </span>
   
-<span style="font-size: 150%; color:#FF0000"> Student Temporary Experience Program ≠ Federal Scientist Career </span>
+Student Temporary Experience Program ≠ Federal Scientist Career
 
 +++
 
@@ -64,8 +64,13 @@
 
 +++
 
-<img src="https://www.nsf.gov/news/newsmedia/ENV-discoveries/CZO-illus.jpg" height="600">
-<span style="font-size: 250%; color:#FF0000"> Challenge: Identify THE science question(s) to ask </span>
+<span style="font-size: 250%; color:#FF0000"> Challenge: </span>
+
+Identify THE science question(s) to ask
+
+<img src="https://www.nsf.gov/news/newsmedia/ENV-discoveries/CZO-illus.jpg" width="500">
+
+
 +++
 
 <span style="font-size: 150%; color:#F9FF33"> "Solution" across disciplines: Concentration Discharge relationships → Landscape and Topographic Carbon Balances </span>
