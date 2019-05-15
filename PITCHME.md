@@ -70,11 +70,12 @@ Identify THE science question(s) to ask
 
 <img src="https://www.nsf.gov/news/newsmedia/ENV-discoveries/CZO-illus.jpg" width="500">
 
-
 +++
 
 <span style="font-size: 150%; color:#F9FF33"> "Solution" across disciplines: Concentration Discharge relationships → Landscape and Topographic Carbon Balances </span>
 
++++
+![Video](https://youtu.be/1JEl0PZc9bk)
 +++
 
 ---?image=https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif
