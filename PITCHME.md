@@ -228,17 +228,18 @@ Battelle-NEON self pwn January 2019 ends foundational collaboration with leaders
 
 ### Getting stuff done.
 
-<span style="font-size: 100%; color:#FF0000"> 1) Do the things. <!-- .element: class="fragment" -->
-<span style="font-size: 120%; color:#F9FF33"> → 2) Do the things right. <!-- .element: class="fragment" -->
+<span style="font-size: 200%; color:#FF0000"> 1) Do the things. <!-- .element: class="fragment" -->
 
-<span style="font-size: 200%; color:#58FF33"> → 3) Do the things well. <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#F9FF33"> → 2) Do the things right. <!-- .element: class="fragment" -->
 
+<span style="font-size: 100%; color:#58FF33"> → 3) Do the things well. <!-- .element: class="fragment" -->
+  
 ---
 
 ## Acknowledgments
 
 GIFs by Giphy.com
 
-All digital images shown this presentation are available online and are the property of their creators, their web addresses are visible in the source code of this presentation at: https://github.com/tyson-swetnam/lemon-labs/PITCHME.md 
+All digital images shown this presentation are available online and are the property of their creators, their web addresses are visible in the source code of this presentation at: https://github.com/tyson-swetnam/agic-presentation
 
 ---?image=assets/imagery/endslide.png
