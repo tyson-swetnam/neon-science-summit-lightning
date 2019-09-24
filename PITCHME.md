@@ -1,13 +1,13 @@
 ---?image=https://media.giphy.com/media/iFdLJEHEHaSNG/giphy.gif
-<span style="font-weight: bold; font-size: 200%; color:#000000"> LEMON LABS
+<span style="font-weight: bold; font-size: 200%; color:#000000"> All the Things
 
-<span style="font-weight: bold; font-size: 100%; color:#000000"> May 16, 2019 </span> 
+<span style="font-weight: bold; font-size: 100%; color:#000000"> October 1, 2019 </span> 
 
 <span style="font-weight: bold; font-size: 120%; color:#000000"> Tyson L. Swetnam </span>
 
 +++
 
----?image=http://tile.loc.gov/image-services/iiif/service:gmd:gmd433:g4333:g4333p:la000006/full/pct:25/0/default.jpg
+---?image=
 <span style="font-size: 300%; color:#000000">ROADMAP </span>
 
 +++
