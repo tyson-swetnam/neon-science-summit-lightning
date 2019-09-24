@@ -17,8 +17,9 @@ ROADMAP
 +++
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/US-NationalParkService-Logo.svg/1000px-US-NationalParkService-Logo.svg.png" height="200">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_the_United_States_Forest_Service.svg/941px-Logo_of_the_United_States_Forest_Service.svg.png" height="200">
+<img src="assets/imagery/cyverse_globe_white.png" height="200">
 
-### Wildland Firefighter → Forest Ecologist 
+### Wildland Firefighter → Forest Ecologist → Data Scientist → Research Professor
 
 <img src="assets/imagery/tyson.jpg" height="200">
 <img src="assets/imagery/rushmore.jpg" height="200">
@@ -59,15 +60,16 @@ Student Temporary Experience Program ≠ Federal Scientist Career
 
 <img src="https://purepng.com/public/uploads/large/purepng.com-lemonlemoncitrus-limoyellow-fruitjuicelemonade-1701527236535iw9tf.png" height="200">
 
-<span style="font-size: 250%; color:#00FFFF"> Act II: Postdoctoral Blues </span> 
+<span style="font-size: 250%; color:#00FFFF"> Act II: Internet of Things & Edge Computing </span> 
 
 +++
+
+---?image=assets/imagery/CEREUS.png
+
 
 <span style="font-size: 250%; color:#FF0000"> Challenge: </span>
 
 Identify THE science question(s) to ask
-
-<img src="https://www.nsf.gov/news/newsmedia/ENV-discoveries/CZO-illus.jpg" width="500">
 
 +++
 
@@ -91,10 +93,6 @@ Identify THE science question(s) to ask
 ---?image=https://media.giphy.com/media/iOXMcT2qEiIUg/giphy.gif
 
 ---
-
-<span style="font-size: 150%; color:#F9FF33"> ...A chance encounter with a guy who liked mangoes. </span>
-
-<img src="https://cdn.uanews.arizona.edu/s3fs-public/styles/2015_story_featured_fp/public/story-images/Merch%201.jpg" height="300">
 
 ---?image=https://media.giphy.com/media/1SMYk3HBzaK3e/giphy.gif
 @snap[west text-smallcaps text-white]
@@ -132,6 +130,9 @@ sUAS SfM
 # TROUGH OF DISALLUSIONMENT
 
 ---
+
+# sUAS Bottlenecks
+
 <span style="font-size: 100%; color:#FF0000"> Difficult to build and fly </span> <!-- .element: class="fragment" -->
 
 <span style="font-size: 100%; color:#58FF33"> Needs integration across systems (Camera, RTK GNSS, lidar, etc) </span> <!-- .element: class="fragment" -->
@@ -159,7 +160,7 @@ sUAS
 ---?image=https://wol-prod-cdn.literatumonline.com/cms/attachment/e4ecd5f8-d7f6-41a1-9984-c23a09db5b33/ecs21797-fig-0003-m.jpg
 
 ---?image=https://media.giphy.com/media/uKpWZU3VXLprW/giphy.gif
-<span style="font-weight: bold; font-size: 200%; color:#FFFFFF"> Peer Review </span>
+<span style="font-weight: bold; font-size: 200%; color:#FFFFFF"> Getting through Peer Review </span>
 
 +++
 <span style="font-size: 200%; color:#FF0000"> Challenge: </span>
@@ -202,9 +203,9 @@ https://github.com/cyverse-gis/NEON-Shiny-Browser
 
 +++
 
-<span style="font-size: 150%; color:#FF0000"> Failure: </span>
+<span style="font-size: 150%; color:#FF0000"> Acknowledging Failures: </span>
 
-(Attempting) To Teach cloud, containers, notebooks in one afternoon
+**Do not attempt to teach cloud, containers, & computational notebooks in one afternoon**
 
 <img src="https://www.sciencemag.org/sites/default/files/styles/inline__699w__no_aspect/public/ca0118NID_NEON_Toolik-Lake_online.jpg" width="400">
 
@@ -226,13 +227,13 @@ Battelle-NEON self pwn January 2019 ends foundational collaboration with leaders
 
 +++
 
-### Getting stuff done.
+### Get stuff done.
 
-<span style="font-size: 200%; color:#FF0000"> 1) Do the things. <!-- .element: class="fragment" -->
+<span style="font-size: 200%; color:#FF0000"> 1) Do the thing. <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#F9FF33"> → 2) Do the things right. <!-- .element: class="fragment" -->
+<span style="font-size: 200%; color:#F9FF33"> → 2) Do the thing right. <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#58FF33"> → 3) Do the things well. <!-- .element: class="fragment" -->
+<span style="font-size: 200%; color:#58FF33"> → 3) Do the thing well. <!-- .element: class="fragment" -->
   
 ---
 
