@@ -1,19 +1,18 @@
----?image=https://media.giphy.com/media/iFdLJEHEHaSNG/giphy.gif
-<span style="font-weight: bold; font-size: 200%; color:#000000"> All the Things
+---?image=https://media.giphy.com/media/QtGaQ3b9ByLIY/giphy.gif
+<span style="font-weight: bold; font-size: 200%; color:#ffffff"> All the Things
 
-<span style="font-weight: bold; font-size: 100%; color:#000000"> October 1, 2019 </span> 
+<span style="font-weight: bold; font-size: 100%; color:#ffffff"> October 1, 2019 </span> 
 
-<span style="font-weight: bold; font-size: 120%; color:#000000"> Tyson L. Swetnam </span>
-
-+++
-
----?image=
-<span style="font-size: 300%; color:#000000">ROADMAP </span>
+<span style="font-weight: bold; font-size: 120%; color:#ffffff"> Tyson L. Swetnam </span>
 
 +++
-<img src="https://purepng.com/public/uploads/large/purepng.com-lemonlemoncitrus-limoyellow-fruitjuicelemonade-1701527236535iw9tf.png" height="200">
 
-<span style="font-size: 250%; color:#FFFF00"> Act I: Hey kid, here's some lidar data </span> 
+---?image=http://tile.loc.gov/image-services/iiif/service:gmd:gmd433:g4333:g4333p:la000006/full/pct:25/0/default.jpg 
+ROADMAP
+
++++
+---?image=https://media.giphy.com/media/zOSxTrEnUmHIY/giphy.gif
+<span style="font-size: 250%; color:#FFFF00"> Act I: Why am I here? </span> 
 
 +++
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/US-NationalParkService-Logo.svg/1000px-US-NationalParkService-Logo.svg.png" height="200">
