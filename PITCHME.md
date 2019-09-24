@@ -16,7 +16,7 @@ ROADMAP
 
 +++
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/US-NationalParkService-Logo.svg/1000px-US-NationalParkService-Logo.svg.png" height="200">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/ForestServiceLogoOfficial.svg/941px-ForestServiceLogoOfficial.svg.png" height="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_the_United_States_Forest_Service.svg/941px-Logo_of_the_United_States_Forest_Service.svg.png" height="200">
 
 ### Wildland Firefighter → Forest Ecologist 
 
