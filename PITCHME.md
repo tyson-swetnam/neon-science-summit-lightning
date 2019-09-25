@@ -59,21 +59,21 @@
 +++
 
 <span style="font-size: 150%; color:#FF0000"> New Challenges </span> 
-    
-<span style="font-size: 100%; color:#FFFF00"> → Very few people can do these things </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#FFFF00"> → Further technological innovations are accelarating </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → Only few people do these things </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 100%; color:#FFFF00"> → Technology is continuing to advance </span> <!-- .element: class="fragment" -->
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Alice_queen2.jpg" height="250"> <!-- .element: class="fragment" -->
     
 +++
 
 ---?image=https://media.giphy.com/media/5hCKTPam0ZRo4/giphy.gif
-<span style="font-size: 150%; color:#FF0000"> Act II: Big Data, Cyberinfrastructure, Internet of Things, Edge Computing </span> 
+<span style="font-size: 150%; color:#FFFF00"> Act II: Big Data, Cyberinfrastructure, Internet of Things, Edge Computing </span> 
 
 +++
 
-<span style="font-size: 150%; color:#FF0000"> Things you need to know exist </span>
+<span style="font-size: 150%; color:#FF0000"> Things you need to know about </span>
 
 <span style="font-size: 100%; color:#FFFF00"> Cyberinfrastructure </span> <!-- .element: class="fragment" -->
 
@@ -92,6 +92,19 @@
 ---?image=https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif
 <span style="font-size: 200%; color:#FFFFFF"> Cyberinfrastructure </span>
 
++++
+
+<span style="font-size: 150%; color:#FF0000"> Working with big data </span>
+
+<img src="https://media.giphy.com/media/C5ldgOqYRbPGg/giphy.gif" height="200">
+
+<span style="font-size: 100%; color:#FFFF00"> GB </span> <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#FFFF00"> → TB </span> <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#FFFF00"> → PB </span> <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#FFFF00"> → EB </span> <!-- .element: class="fragment" -->
+
+<img src="https://media.giphy.com/media/GkQBupPcf5b1e/giphy.gif" height="200">
+<span style="font-weight: bold; font-size: 250%; color:#FFFFFF"> NOT YOUR LAPTOP OR DESKTOP </span>
+
+<span style="font-size: 100%; color:#FFFF00"> Working remotely </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> Managing big data sets </span> <!-- .element: class="fragment" -->
 +++
 
 Data Management Systems
@@ -237,9 +250,6 @@ sUAS
 <span style="font-size: 100%; color:#FFFF00"> → Reproducible notebooks in R </span> <!-- .element: class="fragment" -->
 
 <span style="font-size: 100%; color:#FFFF00"> → Analyze data in CyVerse cyberinfrastructure </span> <!-- .element: class="fragment" --> <a href="https://de.cyverse.org/de/?type=quick-launch&quick-launch-id=12f25023-b6b1-4f23-bbcc-49f0295da8c4&app-id=07e2b2e6-becd-11e9-b524-008cfa5ae621" target="_blank"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a> <!-- .element: class="fragment" -->
-
----?image=https://media.giphy.com/media/GkQBupPcf5b1e/giphy.gif
-<span style="font-weight: bold; font-size: 250%; color:#FFFFFF"> NOT YOUR LAPTOP OR DESKTOP </span>
 
 
 ### Get stuff done.
