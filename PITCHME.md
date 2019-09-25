@@ -5,9 +5,6 @@
 
 <span style="font-weight: bold; font-size: 120%; color:#ffffff"> Tyson L. Swetnam </span>
 
----?image=http://tile.loc.gov/image-services/iiif/service:gmd:gmd433:g4333:g4333p:la000006/full/pct:25/0/default.jpg 
-<span style="font-weight: bold; font-size: 250%; color:#ffffff">Today's Roadmap</span>
-
 ---?image=https://media.giphy.com/media/zOSxTrEnUmHIY/giphy.gif
 <span style="font-size: 250%; color:#FFFF00"> Act I: Why am I here? </span> 
 
@@ -25,13 +22,13 @@
 
 +++
 
-<span style="font-size: 150%; color:#FF0000"> Circa 2008 AD </span> 
-<img src="https://media.giphy.com/media/6Pv2uDUmkg1qM/giphy.gif" height="200"> 
+<span style="font-size: 150%; color:#FF0000"> Circa 2008 AD </span>
+
+<img src="https://media.giphy.com/media/6Pv2uDUmkg1qM/giphy.gif" height="150"> 
 
 <span style="font-size: 100%; color:#FFFF00"> → PhD project: etimate landscape scale forest C </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#FFFF00"> → Hey here's some lidar data, good luck! </span> <!-- .element: class="fragment" -->
-<img src="https://media.giphy.com/media/NMkDjJP2ZC29G/giphy.gif" height="200"> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → Hey here's some lidar data, good luck! </span> <!-- .element: class="fragment" --> <img src="https://media.giphy.com/media/NMkDjJP2ZC29G/giphy.gif" height="150"> <!-- .element: class="fragment" -->
 
 +++ 
 
@@ -45,13 +42,15 @@
 
 +++
 
-<iframe id="Potree"
-    title="Potree"
-    width="300"
-    height="200"
-    src="http://calliope.cyverse.org/pointclouds/pina/pina.html"> 
-</iframe>
-
+<div style="position: absolute; left: 20%; right: 20%; top: 20%; bottom: 20%">
+    <iframe id="Potree"
+        title="Potree"
+        width="300"
+        height="200"
+        src="http://calliope.cyverse.org/pointclouds/pina/pina.html"> 
+    </iframe>
+	</div>
+    
 +++
 
 <span style="font-size: 150%; color:#FF0000"> Solution </span>
@@ -192,7 +191,7 @@ sUAS
 +++
 <span style="font-size: 200%; color:#FF0000"> Challenge </span>
 
-<span style="font-size: 100%; color:#FFFF00"> Reviewer #2 → "a comprehensive uncertainty analyses is required for publication in this journal"  </span> <!-- .element: class="fragment" --> https://media.giphy.com/media/l4Ki6oZ4oPrrgLl9m/giphy.gif <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> Reviewer #2 → "a comprehensive uncertainty analyses is required for publication in this journal"  </span> <!-- .element: class="fragment" --> <img src="https://media.giphy.com/media/l4Ki6oZ4oPrrgLl9m/giphy.gif" height="200"> <!-- .element: class="fragment" -->
 
 +++
 
@@ -219,36 +218,11 @@ sUAS
 
 ---?image=https://media.giphy.com/media/wUCgLRvDdtWs8/giphy.gif
 
-# Have Workflow, Will Travel
-
-+++
-<img src="https://www.dataone.org/sites/default/files/neon_new.png" width="400">
-
-<img src="https://data.neonscience.org/neon-data-theme/images/logo--footer.png" width="300">
-
-<img src="assets/imagery/neon-camp.jpg" height="400"> 
-
-+++
-<span style="font-weight: bold; font-size: 150%; color:#F0FF00"> Challenges </span>
-
-- Drive adoption of CyVerse by NEON community </span>
-- Do all the things </span>
-
 +++
 
-Solution: Demonstrate CyVerse abilities to them
-
-https://github.com/cyverse-gis/NEON-Shiny-Browser
-
-+++
-
-<span style="font-size: 150%; color:#FF0000"> Acknowledging Failures: </span>
+<span style="font-size: 150%; color:#FF0000"> Acknowledging Failures </span>
 
 **Do not attempt to teach cloud, containers, & computational notebooks in one afternoon**
-
-<img src="https://www.sciencemag.org/sites/default/files/styles/inline__699w__no_aspect/public/ca0118NID_NEON_Toolik-Lake_online.jpg" width="400">
-
-Battelle-NEON self pwn January 2019 ends foundational collaboration with leadership.
 
 +++
 
