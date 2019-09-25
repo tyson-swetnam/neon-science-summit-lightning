@@ -1,15 +1,12 @@
----?image=https://media.giphy.com/media/QtGaQ3b9ByLIY/giphy.gif
+---?image=https://media.giphy.com/media/l2SpUGS7cSy1YEpYQ/giphy.gif
 <span style="font-weight: bold; font-size: 200%; color:#ffffff"> All the Things
 
 <span style="font-weight: bold; font-size: 100%; color:#ffffff"> October 1, 2019 </span> 
 
 <span style="font-weight: bold; font-size: 120%; color:#ffffff"> Tyson L. Swetnam </span>
 
-+++
-
 ---?image=http://tile.loc.gov/image-services/iiif/service:gmd:gmd433:g4333:g4333p:la000006/full/pct:25/0/default.jpg 
-
-<span style="font-weight: bold; font-size: 120%; color:#ffffff">Today's Roadmap</span>
+<span style="font-weight: bold; font-size: 250%; color:#ffffff">Today's Roadmap</span>
 
 ---?image=https://media.giphy.com/media/zOSxTrEnUmHIY/giphy.gif
 <span style="font-size: 250%; color:#FFFF00"> Act I: Why am I here? </span> 
@@ -19,19 +16,31 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_the_United_States_Forest_Service.svg/941px-Logo_of_the_United_States_Forest_Service.svg.png" height="200">
 <img src="assets/imagery/cyverse_globe_white.png" height="200">
 
-#### Wildland Firefighter → Forest Ecologist → Data Scientist → Research Professor
+#### Wildland Firefighter → Forest Ecology PhD
 
 <img src="assets/imagery/tyson.jpg" height="200">
 <img src="assets/imagery/rushmore.jpg" height="200">
 
+#### Data Scientist → Research Professor
+
 +++
 
-<span style="font-size: 250%; color:#FF0000"> Circa 2007 challenges: </span> 
+<span style="font-size: 150%; color:#FF0000"> Circa 2007 </span> 
 
-- Use lidar data
-- No teachers
-- Limited access to data 
-- Limited processing options and storage 
+<span style="font-size: 100%; color:#FFFF00"> → Estimate landscape scale forest C </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 100%; color:#FFFF00"> → Here's some lidar data </span> <!-- .element: class="fragment" -->
+
+
++++ 
+
+<span style="font-size: 150%; color:#FF0000"> Problem: </span> 
+
+<span style="font-size: 100%; color:#FFFF00"> → No teachers </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 100%; color:#FFFF00"> → Limited access to data sets </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 100%; color:#FFFF00"> → Limited processing options and storage </span> <!-- .element: class="fragment" --> 
 
 +++
 
@@ -39,35 +48,37 @@
 
 +++
 
-<span style="font-size: 150%; color:#FFFF00"> Solution: </span>
+<span style="font-size: 150%; color:#FFFF00"> Solution </span>
   
-  → Reach out, 
-  → find a peer group, 
-  → develope a mentoring network 
+ <span style="font-size: 100%; color:#FFFF00"> → Reach out </span> <!-- .element: class="fragment" -->
+  
+ <span style="font-size: 100%; color:#FFFF00"> → find a peer group </span> <!-- .element: class="fragment" -->
+  
+ <span style="font-size: 100%; color:#FFFF00"> → develop a mentoring network </span> <!-- .element: class="fragment" -->
 
 +++
 
-<span style="font-size: 150%; color:#FFFF00"> Solution: </span>
+<span style="font-size: 150%; color:#FFFF00"> Today </span>
   
-<span style="font-size: 150%; color:#FFFF00">Time </span> 
-
-<span style="font-size: 150%; color:#FFFF00"> → national data repositories and cloud storage, eventually </span>
+<span style="font-size: 100%; color:#FFFF00"> → National data repositories </span> <!-- .element: class="fragment" -->
   
-<span style="font-size: 150%; color:#FFFF00"> → https://usgs.entwine.io/ </span>
-
-<span style="font-size: 150%; color:#FF0000"> Failure: Self-taught → Time wasted </span>
-
-+++
-
-### Budget Control Act 2011 → Budget Sequester 2013
-
-<img src="https://media.giphy.com/media/b7MdMkkFCyCWI/giphy.gif" height="500">
-
-+++
-
-<span style="font-size: 150%; color:#FF0000"> Failure: </span>
+<span style="font-size: 100%; color:#FFFF00"> → Cloud processing and storage </span> <!-- .element: class="fragment" -->
   
-Student Temporary Experience Program ≠ Federal Scientist Career
+<span style="font-size: 100%; color:#FFFF00"> → https://usgs.entwine.io/ </span> <!-- .element: class="fragment" -->
+
++++ 
+
+<span style="font-size: 150%; color:#FF0000"> Failure 
+  
+<span style="font-size: 100%; color:#FFFF00"> → Self-taught </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 100%; color:#FFFF00"> → Time </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 100%; color:#FFFF00"> → Budget Control Act 2011 → Budget Sequester 2013 </span> <!-- .element: class="fragment" -->
+
+<img src="https://media.giphy.com/media/b7MdMkkFCyCWI/giphy.gif" height="200">
+
+<span style="font-size: 100%; color:#FFFF00"> →  Student Temporary Experience Program ≠ Federal Scientist Career </span> <!-- .element: class="fragment" -->
 
 +++
 
@@ -121,10 +132,10 @@ sUAS SfM
 ---?image=https://emtemp.gcom.cloud/ngw/globalassets/en/research/images/illustrations/researchmethodology-illustration-hype-cycle.jpg
 
 ---?image=https://media.giphy.com/media/ZNKTKocoj8e973Wptz/giphy.gif
-## sUAS = AWESOME!
+## sUAS are AWESOME!
 +++
 
-# PEAK OF (INFLATED) EXPECTATION
+### PEAK OF (INFLATED) EXPECTATION
 
 <span style="font-size: 100%; color:#FF0000"> Ultra High Spatial Resolution </span> <!-- .element: class="fragment" -->
 
@@ -133,18 +144,18 @@ sUAS SfM
 <span style="font-size: 100%; color:#F9FF33"> Cheap </span> <!-- .element: class="fragment" -->
 
 ---?image=https://media.giphy.com/media/l0HlDHQEiIdY3kxlm/giphy.gif
-## sUAS = PTSD
+## sUAS cause PTSD
 
 ---?image=assets/imagery/firefly6_crash2.jpg
 
 ---?image=assets/imagery/firefly_crash1.jpg
 
 ---?image=https://media.giphy.com/media/l4HnN3TbBNYZbeEdq/giphy.gif
-# TROUGH OF DISALLUSIONMENT
+## TROUGH OF DISALLUSIONMENT
 
 ---
 
-# sUAS Bottlenecks
+## sUAS Bottlenecks
 
 <span style="font-size: 100%; color:#FF0000"> Difficult to build and fly </span> <!-- .element: class="fragment" -->
 
@@ -154,6 +165,7 @@ sUAS SfM
 
 ---?image=assets/imagery/meta.jpg
 ---?image=assets/imagery/agisoft_network.png
+
 +++
 
 <img src="https://purepng.com/public/uploads/large/purepng.com-lemonlemoncitrus-limoyellow-fruitjuicelemonade-1701527236535iw9tf.png" height="200">
