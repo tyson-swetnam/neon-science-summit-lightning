@@ -71,11 +71,6 @@
 ---?image=https://media.giphy.com/media/5hCKTPam0ZRo4/giphy.gif
 <span style="font-size: 150%; color:#FF0000"> Act II: Big Data, Cyberinfrastructure, Internet of Things, Edge Computing </span> 
 
----?image=https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif
-<span style="font-size: 200%; color:#FFFFFF"> Cyberinfrastructure </span>
-
----?image=http://mattturck.com/wp-content/uploads/2019/07/2019_Matt_Turck_Big_Data_Landscape_Final_Fullsize.png
-
 +++
 
 <span style="font-size: 150%; color:#FF0000"> Things you need to know exist </span>
@@ -92,13 +87,55 @@
 
 <span style="font-size: 100%; color:#FFFF00"> Edge Computing </span> <!-- .element: class="fragment" -->
 
+---?image=https://emtemp.gcom.cloud/ngw/globalassets/en/research/images/illustrations/researchmethodology-illustration-hype-cycle.jpg
+
+---?image=https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif
+<span style="font-size: 200%; color:#FFFFFF"> Cyberinfrastructure </span>
+
++++
+
+Data Management Systems
+
++++
+
+Workflow Management Systems
+
++++
+
+[Alan Perlis, 1982 Epigrams on Programming](https://web.archive.org/web/19990117034445/http://www-pu.informatik.uni-tuebingen.de/users/klaeren/epigrams.html)
+
+**54. Beware of the Turing Tarpit in which everything is possible but nothing of interest is easy.**
+
+<img src="https://img00.deviantart.net/58af/i/2012/093/a/c/la_brea_tar_pits_by_felipenn-d4uxy05.jpg" width="400">
+
++++
+
+### Building the "best" workflows and pipelines takes time and experience
+
+<img src="https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/edgeoftomorrow-livedierepeat-cruise-blunt-postercrop.jpg" width="800">
+
++++
+
+## The FAIR data principles
+
+<span style="font-size: 100%; color:#FFFF00"> Findable </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> Accessible </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> Interoperable </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> Reusable </span> <!-- .element: class="fragment" -->
+
++++
+
+---?image=http://mattturck.com/wp-content/uploads/2019/07/2019_Matt_Turck_Big_Data_Landscape_Final_Fullsize.png
+
 ---?image=assets/imagery/FOSS.png
 
 ---?image=https://media.giphy.com/media/iOXMcT2qEiIUg/giphy.gif
 
----?image=assets/imagery/cereus.png
++++
 
----?image=https://emtemp.gcom.cloud/ngw/globalassets/en/research/images/illustrations/researchmethodology-illustration-hype-cycle.jpg
+## IoT
+
+---?image=assets/imagery/cereus.png
 
 ---?image=https://media.giphy.com/media/1SMYk3HBzaK3e/giphy.gif
 @snap[west text-smallcaps text-white]
@@ -125,7 +162,7 @@ sUAS SfM
 
 ---?image=https://media.giphy.com/media/l0HlDHQEiIdY3kxlm/giphy.gif
 
-## sUAS cause PTSD
+## sUAS can cause PTSD
 
 ---?image=assets/imagery/firefly6_crash2.jpg
 
@@ -133,7 +170,7 @@ sUAS SfM
 
 ---?image=https://media.giphy.com/media/l4HnN3TbBNYZbeEdq/giphy.gif
 
-## TROUGH OF DISALLUSIONMENT
+## THE TROUGH OF DISALLUSIONMENT
 
 ---
 
@@ -152,17 +189,31 @@ sUAS SfM
 
 <img src="https://purepng.com/public/uploads/large/purepng.com-lemonlemoncitrus-limoyellow-fruitjuicelemonade-1701527236535iw9tf.png" height="200">
 
-<span style="font-size: 150%; color:#F9FF33"> Act III: Cyberinfrastructure </span>
+<span style="font-size: 150%; color:#F9FF33"> Act III: Earth Observation Systems </span>
 
 ---?image=https://media.giphy.com/media/1SMYk3HBzaK3e/giphy.gif
 @snap[west text-smallcaps text-white]
-Cyberinfrastructure
+CubeSats
 @snapend
 
 @snap[east text-smallcaps text-white]
 sUAS
 @snapend
+
 +++
+
+## GEE
+
++++
+
+## CubeSats
+
++++
+
+
+<img src="https://purepng.com/public/uploads/large/purepng.com-lemonlemoncitrus-limoyellow-fruitjuicelemonade-1701527236535iw9tf.png" height="200">
+
+<span style="font-size: 150%; color:#F9FF33"> Act IV: Publishing your work </span>
 
 ---?image=https://media.giphy.com/media/uKpWZU3VXLprW/giphy.gif
 <span style="font-weight: bold; font-size: 200%; color:#FFFFFF"> Getting through Peer Review </span>
@@ -187,41 +238,17 @@ sUAS
 
 <span style="font-size: 100%; color:#FFFF00"> → Analyze data in CyVerse cyberinfrastructure </span> <!-- .element: class="fragment" --> <a href="https://de.cyverse.org/de/?type=quick-launch&quick-launch-id=12f25023-b6b1-4f23-bbcc-49f0295da8c4&app-id=07e2b2e6-becd-11e9-b524-008cfa5ae621" target="_blank"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a> <!-- .element: class="fragment" -->
 
-
-
 ---?image=https://media.giphy.com/media/GkQBupPcf5b1e/giphy.gif
 <span style="font-weight: bold; font-size: 250%; color:#FFFFFF"> NOT YOUR LAPTOP OR DESKTOP </span>
 
-
-+++
-
-<span style="font-size: 150%; color:#FF0000"> Acknowledging Failures </span>
-
-**Do not attempt to teach cloud, containers, & computational notebooks in one afternoon**
-
-+++
-
-[Alan Perlis, 1982 Epigrams on Programming](https://web.archive.org/web/19990117034445/http://www-pu.informatik.uni-tuebingen.de/users/klaeren/epigrams.html)
-
-**54. Beware of the Turing Tarpit in which everything is possible but nothing of interest is easy.**
-
-<img src="https://img00.deviantart.net/58af/i/2012/093/a/c/la_brea_tar_pits_by_felipenn-d4uxy05.jpg" width="400">
-
-+++
-
-### Building the "best" workflows and pipelines takes time and experience
-
-<img src="https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/edgeoftomorrow-livedierepeat-cruise-blunt-postercrop.jpg" width="800">
-
-+++
 
 ### Get stuff done.
 
 <span style="font-size: 200%; color:#FF0000"> 1) Do the thing. <!-- .element: class="fragment" -->
 
-<span style="font-size: 200%; color:#F9FF33"> → 2) Do the thing right. <!-- .element: class="fragment" -->
+<span style="font-size: 200%; color:#F9FF33"> 2) Do the thing right. <!-- .element: class="fragment" -->
 
-<span style="font-size: 200%; color:#58FF33"> → 3) Do the thing well. <!-- .element: class="fragment" -->
+<span style="font-size: 200%; color:#58FF33"> 3) Do the thing well. <!-- .element: class="fragment" -->
   
 ---
 
