@@ -35,7 +35,7 @@
 
 +++
 
-<iframe class="stretch" data-src="http://calliope.cyverse.org/pointclouds/pina/pina.html"></iframe>
+<iframe src="http://calliope.cyverse.org/pointclouds/pina/pina.html" style="border:0px #000000 none;" name="Potree" scrolling="no" frameborder="1" marginheight="px" marginwidth="320px" height="320px" width="480px"></iframe>
 
 +++
 
