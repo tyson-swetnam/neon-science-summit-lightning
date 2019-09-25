@@ -34,13 +34,13 @@
 
 <span style="font-size: 150%; color:#FF0000"> 2008 Challenges </span> 
 
-<img src="https://media.giphy.com/media/82OUfFhkBaDmAwWoc5/giphy.gif" height="150">  <!-- .element: class="fragment" -->
-
 <span style="font-size: 100%; color:#FFFF00"> → Limited access to data sets </span> <!-- .element: class="fragment" -->
 
 <span style="font-size: 100%; color:#FFFF00"> → Limited software to work with the data </span> <!-- .element: class="fragment" --> 
 
-<span style="font-size: 100%; color:#FFFF00"> → Limited processing options and storage </span> <!-- .element: class="fragment" --> 
+<span style="font-size: 100%; color:#FFFF00"> → Limited processing and storage options </span> <!-- .element: class="fragment" --> 
+
+<img src="https://media.giphy.com/media/tJpR7sRijUo9vAUu1j/giphy.gif " height="150">
 
 +++
 
@@ -48,9 +48,9 @@
 
 <img src="https://media.giphy.com/media/bSv4dJP24GwLtaRkbD/giphy.gif" height="150"> 
 
-<span style="font-size: 100%; color:#FFFF00"> → I know how to code </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → Know how to code </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#FFFF00"> → Comfortable working with Big data </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → Comfortable working with big data </span> <!-- .element: class="fragment" -->
 
 <span style="font-size: 100%; color:#FFFF00"> → Endless data streams from 3DEP, NEON, sUAS </span> <!-- .element: class="fragment" -->
 
@@ -64,29 +64,17 @@
 
 <span style="font-size: 100%; color:#FFFF00"> → Further technological innovations are accelarating </span> <!-- .element: class="fragment" -->
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Alice_queen2.jpg" height="200"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Alice_queen2.jpg" height="250"> <!-- .element: class="fragment" -->
     
-+++ 
-
-<img src="https://media.giphy.com/media/tJpR7sRijUo9vAUu1j/giphy.gif " height="150">  
-<span style="font-size: 100%; color:#FFFF00"> Self-taught → Time wasted </span> <!-- .element: class="fragment" -->
-
-<span style="font-size: 100%; color:#FFFF00"> Budget Control Act 2011 → Budget Sequester 2013 </span> <!-- .element: class="fragment" --> <img src="https://media.giphy.com/media/b7MdMkkFCyCWI/giphy.gif" height="200"> <!-- .element: class="fragment" -->
-
-<span style="font-size: 100%; color:#FFFF00"> Student Temporary Experience Program ≠ Federal Scientist Career </span> <!-- .element: class="fragment" -->
-
 +++
 
-<img src="https://purepng.com/public/uploads/large/purepng.com-lemonlemoncitrus-limoyellow-fruitjuicelemonade-1701527236535iw9tf.png" height="200">
-
-<span style="font-size: 150%; color:#00FFFF"> Act II: Cyberinfrastructure, Internet of Things, Edge Computing </span> 
+---?image=https://media.giphy.com/media/5hCKTPam0ZRo4/giphy.gif
+<span style="font-size: 150%; color:#FF0000"> Act II: Big Data, Cyberinfrastructure, Internet of Things, Edge Computing </span> 
 
 ---?image=https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif
-<span style="font-size: 200%; color:#FFFFFF"> BIG DATA </span>
+<span style="font-size: 200%; color:#FFFFFF"> Cyberinfrastructure </span>
 
 ---?image=http://mattturck.com/wp-content/uploads/2019/07/2019_Matt_Turck_Big_Data_Landscape_Final_Fullsize.png
-
----?image=https://media.giphy.com/media/iOXMcT2qEiIUg/giphy.gif
 
 +++
 
@@ -106,13 +94,15 @@
 
 ---?image=assets/imagery/FOSS.png
 
+---?image=https://media.giphy.com/media/iOXMcT2qEiIUg/giphy.gif
+
 ---?image=assets/imagery/cereus.png
 
 ---?image=https://emtemp.gcom.cloud/ngw/globalassets/en/research/images/illustrations/researchmethodology-illustration-hype-cycle.jpg
 
 ---?image=https://media.giphy.com/media/1SMYk3HBzaK3e/giphy.gif
 @snap[west text-smallcaps text-white]
-Aerial lidar
+Aircraft lidar
 @snapend
 
 @snap[east text-smallcaps text-white]
