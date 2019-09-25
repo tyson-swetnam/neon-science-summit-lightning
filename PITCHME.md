@@ -18,27 +18,33 @@
 <img src="assets/imagery/tyson.jpg" height="200">
 <img src="assets/imagery/rushmore.jpg" height="200">
 
-#### Data Scientist → Research Professor
-
 +++
 
-<span style="font-size: 150%; color:#FF0000"> Circa 2008 AD </span>
-
+<span style="font-size: 100%; color:#FF0000"> Circa 2008 AD </span>
 <img src="https://media.giphy.com/media/6Pv2uDUmkg1qM/giphy.gif" height="150"> 
-
-<span style="font-size: 100%; color:#FFFF00"> → PhD project: etimate landscape scale forest C </span> <!-- .element: class="fragment" -->
-
-<span style="font-size: 100%; color:#FFFF00"> → Hey here's some lidar data, good luck! </span> <!-- .element: class="fragment" --> <img src="https://media.giphy.com/media/NMkDjJP2ZC29G/giphy.gif" height="150"> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → PhD project: estimate landscape scale forest C </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → Hey here's some lidar data, good luck! </span> 
+<!-- .element: class="fragment" --> <img src="https://media.giphy.com/media/NMkDjJP2ZC29G/giphy.gif" height="150"> <!-- .element: class="fragment" -->
 
 +++ 
 
-<span style="font-size: 150%; color:#FF0000"> Problem </span> 
+<span style="font-size: 150%; color:#FF0000"> 2008 Problems </span> 
 
-<span style="font-size: 100%; color:#FFFF00"> → No teachers </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → No teachers </span> <img src="https://media.giphy.com/media/82OUfFhkBaDmAwWoc5/giphy.gif" height="150">  <!-- .element: class="fragment" -->
 
 <span style="font-size: 100%; color:#FFFF00"> → Limited access to data sets </span> <!-- .element: class="fragment" -->
 
 <span style="font-size: 100%; color:#FFFF00"> → Limited processing options and storage </span> <!-- .element: class="fragment" --> 
+
++++
+
+<span style="font-size: 100%; color:#FF0000"> Circa 2019 AD </span>
+<img src="https://media.giphy.com/media/3owzVYjZSzuFivWpHi/giphy.gif" height="150"> 
+
+<span style="font-size: 100%; color:#FFFF00"> → National data repositories </span> <!-- .element: class="fragment" -->
+  
+<span style="font-size: 100%; color:#FFFF00"> → Cloud processing and distributed storage </span> <!-- .element: class="fragment" -->
+  
 
 +++
 
@@ -65,23 +71,13 @@
 
 +++ 
 
-<span style="font-size: 150%; color:#FF0000"> Failures 
-  
+<span style="font-size: 150%; color:#FF0000"> Failures </span>
+<img src="https://media.giphy.com/media/tJpR7sRijUo9vAUu1j/giphy.gif " height="150">  
 <span style="font-size: 100%; color:#FFFF00"> Self-taught → Time wasted </span> <!-- .element: class="fragment" -->
 
 <span style="font-size: 100%; color:#FFFF00"> Budget Control Act 2011 → Budget Sequester 2013 </span> <!-- .element: class="fragment" --> <img src="https://media.giphy.com/media/b7MdMkkFCyCWI/giphy.gif" height="200"> <!-- .element: class="fragment" -->
 
 <span style="font-size: 100%; color:#FFFF00"> Student Temporary Experience Program ≠ Federal Scientist Career </span> <!-- .element: class="fragment" -->
-
-+++
-
-<span style="font-size: 150%; color:#FF0000"> Today </span>
-  
-<span style="font-size: 100%; color:#FFFF00"> → National data repositories </span> <!-- .element: class="fragment" -->
-  
-<span style="font-size: 100%; color:#FFFF00"> → Cloud processing and storage </span> <!-- .element: class="fragment" -->
-  
-<span style="font-size: 100%; color:#FFFF00"> → https://usgs.entwine.io/ </span> <!-- .element: class="fragment" -->
 
 +++
 
