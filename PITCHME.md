@@ -203,7 +203,7 @@ sUAS
 
 <span style="font-size: 100%; color:#FFFF00"> → Reproducible notebooks in R </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#FFFF00"> → Analyze data in CyVerse cyberinfrastructure </span> <a href="https://de.cyverse.org/de/?type=quick-launch&quick-launch-id=12f25023-b6b1-4f23-bbcc-49f0295da8c4&app-id=07e2b2e6-becd-11e9-b524-008cfa5ae621" target="_blank"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → Analyze data in CyVerse cyberinfrastructure </span> <!-- .element: class="fragment" --> <a href="https://de.cyverse.org/de/?type=quick-launch&quick-launch-id=12f25023-b6b1-4f23-bbcc-49f0295da8c4&app-id=07e2b2e6-becd-11e9-b524-008cfa5ae621" target="_blank"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a> <!-- .element: class="fragment" -->
 
 
 
