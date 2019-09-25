@@ -21,16 +21,17 @@
 +++
 
 <span style="font-size: 100%; color:#FF0000"> Circa 2008 AD </span>
-<img src="https://media.giphy.com/media/6Pv2uDUmkg1qM/giphy.gif" height="150"> 
+
+<img src="https://media.giphy.com/media/6Pv2uDUmkg1qM/giphy.gif" height="150">
+
 <span style="font-size: 100%; color:#FFFF00"> → PhD project: estimate landscape scale forest C </span> <!-- .element: class="fragment" -->
-<span style="font-size: 100%; color:#FFFF00"> → Hey here's some lidar data, good luck! </span> 
-<!-- .element: class="fragment" --> <img src="https://media.giphy.com/media/NMkDjJP2ZC29G/giphy.gif" height="150"> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → Hey here's some lidar data, good luck! </span> <!-- .element: class="fragment" --> <img src="https://media.giphy.com/media/NMkDjJP2ZC29G/giphy.gif" height="150"> <!-- .element: class="fragment" -->
 
 +++ 
 
-<span style="font-size: 150%; color:#FF0000"> 2008 Problems </span> 
+<span style="font-size: 150%; color:#FF0000"> 2008 Challenges </span> 
 
-<span style="font-size: 100%; color:#FFFF00"> → No teachers </span> <img src="https://media.giphy.com/media/82OUfFhkBaDmAwWoc5/giphy.gif" height="150">  <!-- .element: class="fragment" -->
+<img src="https://media.giphy.com/media/82OUfFhkBaDmAwWoc5/giphy.gif" height="150">  <!-- .element: class="fragment" -->
 
 <span style="font-size: 100%; color:#FFFF00"> → Limited access to data sets </span> <!-- .element: class="fragment" -->
 
@@ -39,12 +40,23 @@
 +++
 
 <span style="font-size: 100%; color:#FF0000"> Circa 2019 AD </span>
-<img src="https://media.giphy.com/media/3owzVYjZSzuFivWpHi/giphy.gif" height="150"> 
 
-<span style="font-size: 100%; color:#FFFF00"> → National data repositories </span> <!-- .element: class="fragment" -->
-  
-<span style="font-size: 100%; color:#FFFF00"> → Cloud processing and distributed storage </span> <!-- .element: class="fragment" -->
-  
+<img src="https://media.giphy.com/media/bSv4dJP24GwLtaRkbD/giphy.gif" height="150"> 
+
+<span style="font-size: 100%; color:#FFFF00"> → I know how to code </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → Comfortable working with Big data </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → Endless data streams from 3DEP, NEON, sUAS </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → Nearly limitless processing with cloud and HPC </span> <!-- .element: class="fragment" -->
+
++++
+
+<span style="font-size: 200%; color:#FF0000"> New Challenge  </span> 
+    
+<span style="font-size: 100%; color:#FFFF00"> → Almost no one in my old community knows what I do now </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 100%; color:#FFFF00"> → Technological innovations are accelarating exponentially </span> <!-- .element: class="fragment" -->
+
+---?image=https://media.giphy.com/media/wUCgLRvDdtWs8/giphy.gif
 
 +++
 
@@ -206,12 +218,6 @@ sUAS
 ---?image=https://media.giphy.com/media/GkQBupPcf5b1e/giphy.gif
 <span style="font-weight: bold; font-size: 250%; color:#FFFFFF"> NOT YOUR LAPTOP OR DESKTOP </span>
 
-+++
-<span style="font-size: 200%; color:#FF0000"> New Challenge  </span> 
-    
-<span style="font-size: 100%; color:#FFFF00"> → No one in my old community knows what I do now </span> <!-- .element: class="fragment" -->
-
----?image=https://media.giphy.com/media/wUCgLRvDdtWs8/giphy.gif
 
 +++
 
