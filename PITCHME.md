@@ -88,13 +88,18 @@
 
 <img src="https://purepng.com/public/uploads/large/purepng.com-lemonlemoncitrus-limoyellow-fruitjuicelemonade-1701527236535iw9tf.png" height="200">
 
-<span style="font-size: 250%; color:#00FFFF"> Act II: Internet of Things & Edge Computing </span> 
+<span style="font-size: 150%; color:#00FFFF"> Act II: Cyberinfrastructure, Internet of Things, Edge Computing </span> 
+
+---?image=https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif
+<span style="font-size: 200%; color:#FFFFFF"> BIG DATA </span>
 
 ---?image=http://mattturck.com/wp-content/uploads/2019/07/2019_Matt_Turck_Big_Data_Landscape_Final_Fullsize.png
 
+---?image=https://media.giphy.com/media/iOXMcT2qEiIUg/giphy.gif
+
 +++
 
-<span style="font-size: 150%; color:#FF0000"> Things you probably need to know about </span>
+<span style="font-size: 150%; color:#FF0000"> Things you need to know exist </span>
 
 <span style="font-size: 100%; color:#FFFF00"> Cyberinfrastructure </span> <!-- .element: class="fragment" -->
 
@@ -104,18 +109,15 @@
 
 <span style="font-size: 100%; color:#FFFF00"> FAIR Data Principles </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#FFFF00"> Internet of Things </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> Internet of Things (IoT) </span> <!-- .element: class="fragment" -->
 
 <span style="font-size: 100%; color:#FFFF00"> Edge Computing </span> <!-- .element: class="fragment" -->
 
----?image=assets/imagery/CEREUS.jpg
+---?image=assets/imagery/FOSS.png
 
----?image=https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif
-<span style="font-size: 200%; color:#FFFFFF"> BIG DATA </span>
+---?image=assets/imagery/cereus.png
 
----?image=https://media.giphy.com/media/iOXMcT2qEiIUg/giphy.gif
-
----
+---?image=https://emtemp.gcom.cloud/ngw/globalassets/en/research/images/illustrations/researchmethodology-illustration-hype-cycle.jpg
 
 ---?image=https://media.giphy.com/media/1SMYk3HBzaK3e/giphy.gif
 @snap[west text-smallcaps text-white]
@@ -127,8 +129,6 @@ sUAS SfM
 @snapend
 
 +++
-
----?image=https://emtemp.gcom.cloud/ngw/globalassets/en/research/images/illustrations/researchmethodology-illustration-hype-cycle.jpg
 
 ---?image=https://media.giphy.com/media/ZNKTKocoj8e973Wptz/giphy.gif
 ## sUAS are AWESOME!
@@ -143,6 +143,7 @@ sUAS SfM
 <span style="font-size: 100%; color:#F9FF33"> Cheap </span> <!-- .element: class="fragment" -->
 
 ---?image=https://media.giphy.com/media/l0HlDHQEiIdY3kxlm/giphy.gif
+
 ## sUAS cause PTSD
 
 ---?image=assets/imagery/firefly6_crash2.jpg
@@ -150,6 +151,7 @@ sUAS SfM
 ---?image=assets/imagery/firefly_crash1.jpg
 
 ---?image=https://media.giphy.com/media/l4HnN3TbBNYZbeEdq/giphy.gif
+
 ## TROUGH OF DISALLUSIONMENT
 
 ---
@@ -181,27 +183,39 @@ sUAS
 @snapend
 +++
 
----?image=https://wol-prod-cdn.literatumonline.com/cms/attachment/e4ecd5f8-d7f6-41a1-9984-c23a09db5b33/ecs21797-fig-0003-m.jpg
-
 ---?image=https://media.giphy.com/media/uKpWZU3VXLprW/giphy.gif
 <span style="font-weight: bold; font-size: 200%; color:#FFFFFF"> Getting through Peer Review </span>
 
-+++
-<span style="font-size: 200%; color:#FF0000"> Challenge: </span>
-
-Reviewer #2 → comprehensive uncertainty analyses required
+---?image=https://wol-prod-cdn.literatumonline.com/cms/attachment/e4ecd5f8-d7f6-41a1-9984-c23a09db5b33/ecs21797-fig-0003-m.jpg
+## Landscape scale C balances
 
 +++
+<span style="font-size: 200%; color:#FF0000"> Challenge </span>
 
-<span style="font-size: 150%; color:#F9FF33"> Solution: Reproducible notebooks </span>
+<span style="font-size: 100%; color:#FFFF00"> Reviewer #2 → "a comprehensive uncertainty analyses is required for publication in this journal"  </span> <!-- .element: class="fragment" --> https://media.giphy.com/media/l4Ki6oZ4oPrrgLl9m/giphy.gif <!-- .element: class="fragment" -->
 
-Analyze data in CyVerse|XSEDE Jetstream, share work with collaborators at other institutions, work in R notebooks.
++++
+
+<span style="font-size: 150%; color:#F9FF33"> Solution </span> 
+
+<span style="font-size: 100%; color:#FFFF00"> → Code on GitHub </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 100%; color:#FFFF00"> → Container on DockerHub </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 100%; color:#FFFF00"> → Reproducible notebooks in R </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 100%; color:#FFFF00"> → Analyze data in CyVerse cyberinfrastructure </span> <!-- .element: class="fragment" -->
+
+<a href="https://de.cyverse.org/de/?type=quick-launch&quick-launch-id=12f25023-b6b1-4f23-bbcc-49f0295da8c4&app-id=07e2b2e6-becd-11e9-b524-008cfa5ae621" target="_blank"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a>
+
 
 ---?image=https://media.giphy.com/media/GkQBupPcf5b1e/giphy.gif
 <span style="font-weight: bold; font-size: 250%; color:#FFFFFF"> NOT YOUR LAPTOP OR DESKTOP </span>
 
 +++
-<span style="font-size: 200%; color:#FF0000"> Challenge: No one in my old community knows what I do </span>
+<span style="font-size: 200%; color:#FF0000"> New Challenge  </span> 
+    
+<span style="font-size: 100%; color:#FFFF00"> → No one in my old community knows what I do now </span> <!-- .element: class="fragment" -->
 
 ---?image=https://media.giphy.com/media/wUCgLRvDdtWs8/giphy.gif
 
