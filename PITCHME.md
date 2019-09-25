@@ -92,8 +92,7 @@
 
 +++
 
-<span style="font-size: 250%; color:#FF0000"> The things you need to know about </span>
-
+<span style="font-size: 150%; color:#FF0000"> Things you probably need to know about </span>
 
 <span style="font-size: 100%; color:#FFFF00"> Cyberinfrastructure </span> <!-- .element: class="fragment" -->
 
