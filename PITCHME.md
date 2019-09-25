@@ -25,15 +25,17 @@
 
 +++
 
-<span style="font-size: 150%; color:#FF0000"> Circa 2007 </span> 
+<span style="font-size: 150%; color:#FF0000"> Circa 2008 AD </span> 
+<img src="https://media.giphy.com/media/6Pv2uDUmkg1qM/giphy.gif" height="200"> 
 
-<span style="font-size: 100%; color:#FFFF00"> → Estimate landscape scale forest C </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → PhD project: etimate landscape scale forest C </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#FFFF00"> → Hey here's some lidar data </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → Hey here's some lidar data, good luck! </span> <!-- .element: class="fragment" -->
+<img src="https://media.giphy.com/media/NMkDjJP2ZC29G/giphy.gif" height="200"> <!-- .element: class="fragment" -->
 
 +++ 
 
-<span style="font-size: 150%; color:#FF0000"> Problem: </span> 
+<span style="font-size: 150%; color:#FF0000"> Problem </span> 
 
 <span style="font-size: 100%; color:#FFFF00"> → No teachers </span> <!-- .element: class="fragment" -->
 
@@ -68,7 +70,7 @@
   
 <span style="font-size: 100%; color:#FFFF00"> Self-taught → Time wasted </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#FFFF00"> Budget Control Act 2011 → Budget Sequester 2013 </span> <img src="https://media.giphy.com/media/b7MdMkkFCyCWI/giphy.gif" height="200"> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> Budget Control Act 2011 → Budget Sequester 2013 </span> <!-- .element: class="fragment" --> <img src="https://media.giphy.com/media/b7MdMkkFCyCWI/giphy.gif" height="200"> <!-- .element: class="fragment" -->
 
 <span style="font-size: 100%; color:#FFFF00"> Student Temporary Experience Program ≠ Federal Scientist Career </span> <!-- .element: class="fragment" -->
 
