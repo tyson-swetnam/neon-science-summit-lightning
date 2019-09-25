@@ -24,8 +24,9 @@
 
 <img src="https://media.giphy.com/media/6Pv2uDUmkg1qM/giphy.gif" height="150">
 
-<span style="font-size: 100%; color:#FFFF00"> → PhD project: estimate landscape scale forest C </span> <!-- .element: class="fragment" -->
-<span style="font-size: 100%; color:#FFFF00"> → Hey here's some lidar data, good luck! </span> <!-- .element: class="fragment" --> <img src="https://media.giphy.com/media/NMkDjJP2ZC29G/giphy.gif" height="150"> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> PhD project: estimate landscape scale forest C </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → Hey here's some lidar data, good luck! </span> <!-- .element: class="fragment" --> 
+<img src="https://media.giphy.com/media/NMkDjJP2ZC29G/giphy.gif" height="150"> <!-- .element: class="fragment" -->
 
 +++ 
 
@@ -35,6 +36,7 @@
 
 <span style="font-size: 100%; color:#FFFF00"> → Limited access to data sets </span> <!-- .element: class="fragment" -->
 
+<span style="font-size: 100%; color:#FFFF00"> → Limited software to work with the data </span> <!-- .element: class="fragment" --> 
 <span style="font-size: 100%; color:#FFFF00"> → Limited processing options and storage </span> <!-- .element: class="fragment" --> 
 
 +++
@@ -50,40 +52,16 @@
 
 +++
 
-<span style="font-size: 200%; color:#FF0000"> New Challenge  </span> 
+<span style="font-size: 150%; color:#FF0000"> New Challenges </span> 
     
-<span style="font-size: 100%; color:#FFFF00"> → Almost no one in my old community knows what I do now </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → Very few people can do these things </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#FFFF00"> → Technological innovations are accelarating exponentially </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → Further technological innovations are accelarating </span> <!-- .element: class="fragment" -->
 
----?image=https://media.giphy.com/media/wUCgLRvDdtWs8/giphy.gif
-
-+++
-
-<div style="position: absolute; left: 20%; right: 20%; top: 20%; bottom: 20%">
-    <iframe id="Potree"
-        title="Potree"
-        width="300"
-        height="200"
-        src="http://calliope.cyverse.org/pointclouds/pina/pina.html"> 
-    </iframe>
-	</div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Alice_queen2.jpg" height="200"> 
     
-+++
-
-<span style="font-size: 150%; color:#FF0000"> Solution </span>
-  
- <span style="font-size: 100%; color:#FFFF00"> → Reach out </span> <!-- .element: class="fragment" -->
-  
- <span style="font-size: 100%; color:#FFFF00"> → Find a peer group </span> <!-- .element: class="fragment" -->
-  
- <span style="font-size: 100%; color:#FFFF00"> → develop a mentoring network </span> <!-- .element: class="fragment" -->
-
- <span style="font-size: 100%; color:#FFFF00"> → embrace open source software </span> <!-- .element: class="fragment" -->
-
 +++ 
 
-<span style="font-size: 150%; color:#FF0000"> Failures </span>
 <img src="https://media.giphy.com/media/tJpR7sRijUo9vAUu1j/giphy.gif " height="150">  
 <span style="font-size: 100%; color:#FFFF00"> Self-taught → Time wasted </span> <!-- .element: class="fragment" -->
 
