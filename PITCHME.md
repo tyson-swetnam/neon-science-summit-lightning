@@ -29,8 +29,7 @@
 
 <span style="font-size: 100%; color:#FFFF00"> → Estimate landscape scale forest C </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#FFFF00"> → Here's some lidar data </span> <!-- .element: class="fragment" -->
-
+<span style="font-size: 100%; color:#FFFF00"> → Hey here's some lidar data </span> <!-- .element: class="fragment" -->
 
 +++ 
 
@@ -44,7 +43,12 @@
 
 +++
 
-<iframe src="http://calliope.cyverse.org/pointclouds/pina/pina.html" style="border:0px #000000 none;" name="Potree" scrolling="no" frameborder="1" marginheight="px" marginwidth="320px" height="320px" width="480px"></iframe>
+<iframe id="Potree"
+    title="Potree"
+    width="300"
+    height="200"
+    src="http://calliope.cyverse.org/pointclouds/pina/pina.html"> 
+</iframe>
 
 +++
 
@@ -55,6 +59,8 @@
  <span style="font-size: 100%; color:#FFFF00"> → Find a peer group </span> <!-- .element: class="fragment" -->
   
  <span style="font-size: 100%; color:#FFFF00"> → develop a mentoring network </span> <!-- .element: class="fragment" -->
+
+ <span style="font-size: 100%; color:#FFFF00"> → embrace open source software </span> <!-- .element: class="fragment" -->
 
 +++ 
 
@@ -82,33 +88,29 @@
 
 <span style="font-size: 250%; color:#00FFFF"> Act II: Internet of Things & Edge Computing </span> 
 
-+++
-
----?image=assets/imagery/CEREUS.png
-
-
-<span style="font-size: 250%; color:#FF0000"> Challenge: </span>
-
-Identify THE science question(s) to ask
+---?image=http://mattturck.com/wp-content/uploads/2019/07/2019_Matt_Turck_Big_Data_Landscape_Final_Fullsize.png
 
 +++
 
-<span style="font-size: 150%; color:#F9FF33"> "Solution" across disciplines: Concentration Discharge relationships → Landscape and Topographic Carbon Balances </span>
+<span style="font-size: 250%; color:#FF0000"> The things you need to know about </span>
 
-+++
-![Video](https://www.youtube.com/embed/1JEl0PZc9bk)
-+++
+
+<span style="font-size: 100%; color:#FFFF00"> Cyberinfrastructure </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 100%; color:#FFFF00"> Data Management Systems (DMS) </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 100%; color:#FFFF00"> Workflow Management Systems (WMS) </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 100%; color:#FFFF00"> FAIR Data Principles </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 100%; color:#FFFF00"> Internet of Things </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 100%; color:#FFFF00"> Edge Computing </span> <!-- .element: class="fragment" -->
+
+---?image=assets/imagery/CEREUS.jpg
 
 ---?image=https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif
 <span style="font-size: 200%; color:#FFFFFF"> BIG DATA </span>
-
-+++
-
-2014 All Hands Meeting
-
-<img src="https://www.earthcube.org/sites/default/files/pictures/AMS2014_EarthCube.jpg" height="400">
-
----?image=https://media.giphy.com/media/9uI9WOCm7WCf4wwhro/giphy.gif
 
 ---?image=https://media.giphy.com/media/iOXMcT2qEiIUg/giphy.gif
 
@@ -201,6 +203,7 @@ Analyze data in CyVerse|XSEDE Jetstream, share work with collaborators at other 
 <span style="font-size: 200%; color:#FF0000"> Challenge: No one in my old community knows what I do </span>
 
 ---?image=https://media.giphy.com/media/wUCgLRvDdtWs8/giphy.gif
+
 # Have Workflow, Will Travel
 
 +++
