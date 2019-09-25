@@ -48,37 +48,33 @@
 
 +++
 
-<span style="font-size: 150%; color:#FFFF00"> Solution </span>
+<span style="font-size: 150%; color:#FF0000"> Solution </span>
   
  <span style="font-size: 100%; color:#FFFF00"> → Reach out </span> <!-- .element: class="fragment" -->
   
- <span style="font-size: 100%; color:#FFFF00"> → find a peer group </span> <!-- .element: class="fragment" -->
+ <span style="font-size: 100%; color:#FFFF00"> → Find a peer group </span> <!-- .element: class="fragment" -->
   
  <span style="font-size: 100%; color:#FFFF00"> → develop a mentoring network </span> <!-- .element: class="fragment" -->
 
++++ 
+
+<span style="font-size: 150%; color:#FF0000"> Failures 
+  
+<span style="font-size: 100%; color:#FFFF00"> Self-taught → Time wasted </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 100%; color:#FFFF00"> Budget Control Act 2011 → Budget Sequester 2013 </span> <img src="https://media.giphy.com/media/b7MdMkkFCyCWI/giphy.gif" height="200"> <!-- .element: class="fragment" -->
+
+<span style="font-size: 100%; color:#FFFF00"> Student Temporary Experience Program ≠ Federal Scientist Career </span> <!-- .element: class="fragment" -->
+
 +++
 
-<span style="font-size: 150%; color:#FFFF00"> Today </span>
+<span style="font-size: 150%; color:#FF0000"> Today </span>
   
 <span style="font-size: 100%; color:#FFFF00"> → National data repositories </span> <!-- .element: class="fragment" -->
   
 <span style="font-size: 100%; color:#FFFF00"> → Cloud processing and storage </span> <!-- .element: class="fragment" -->
   
 <span style="font-size: 100%; color:#FFFF00"> → https://usgs.entwine.io/ </span> <!-- .element: class="fragment" -->
-
-+++ 
-
-<span style="font-size: 150%; color:#FF0000"> Failure 
-  
-<span style="font-size: 100%; color:#FFFF00"> → Self-taught </span> <!-- .element: class="fragment" -->
-
-<span style="font-size: 100%; color:#FFFF00"> → Time </span> <!-- .element: class="fragment" -->
-
-<span style="font-size: 100%; color:#FFFF00"> → Budget Control Act 2011 → Budget Sequester 2013 </span> <!-- .element: class="fragment" -->
-
-<img src="https://media.giphy.com/media/b7MdMkkFCyCWI/giphy.gif" height="200">
-
-<span style="font-size: 100%; color:#FFFF00"> →  Student Temporary Experience Program ≠ Federal Scientist Career </span> <!-- .element: class="fragment" -->
 
 +++
 
