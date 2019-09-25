@@ -8,9 +8,9 @@
 +++
 
 ---?image=http://tile.loc.gov/image-services/iiif/service:gmd:gmd433:g4333:g4333p:la000006/full/pct:25/0/default.jpg 
-ROADMAP
 
-+++
+<span style="font-weight: bold; font-size: 120%; color:#ffffff">Today's Roadmap</span>
+
 ---?image=https://media.giphy.com/media/zOSxTrEnUmHIY/giphy.gif
 <span style="font-size: 250%; color:#FFFF00"> Act I: Why am I here? </span> 
 
@@ -19,28 +19,41 @@ ROADMAP
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_the_United_States_Forest_Service.svg/941px-Logo_of_the_United_States_Forest_Service.svg.png" height="200">
 <img src="assets/imagery/cyverse_globe_white.png" height="200">
 
-### Wildland Firefighter → Forest Ecologist → Data Scientist → Research Professor
+#### Wildland Firefighter → Forest Ecologist → Data Scientist → Research Professor
 
 <img src="assets/imagery/tyson.jpg" height="200">
 <img src="assets/imagery/rushmore.jpg" height="200">
 
----?image=https://wiki.cyverse.org/wiki/download/attachments/18188179/example_fig.png
++++
+
+<span style="font-size: 250%; color:#FF0000"> Circa 2007 challenges: </span> 
+
+- Use lidar data
+- No teachers
+- Limited access to data 
+- Limited processing options and storage 
 
 +++
 
-<span style="font-size: 250%; color:#FF0000"> Challenges: </span> 
-
-No teachers
-
-access to data limited processing, storage 
+<iframe class="stretch" data-src="http://calliope.cyverse.org/pointclouds/pina/pina.html"></iframe>
 
 +++
 
-<span style="font-size: 150%; color:#FFFF00"> Solution: Reach out, found peer groups, developed a mentoring network </span>
+<span style="font-size: 150%; color:#FFFF00"> Solution: </span>
+  
+  → Reach out, 
+  → find a peer group, 
+  → develope a mentoring network 
 
-<span style="font-size: 150%; color:#FFFF00"> Solution: Time </span> 
++++
 
-→ national data repositories and cloud storage, eventually → https://usgs.entwine.io/
+<span style="font-size: 150%; color:#FFFF00"> Solution: </span>
+  
+<span style="font-size: 150%; color:#FFFF00">Time </span> 
+
+<span style="font-size: 150%; color:#FFFF00"> → national data repositories and cloud storage, eventually </span>
+  
+<span style="font-size: 150%; color:#FFFF00"> → https://usgs.entwine.io/ </span>
 
 <span style="font-size: 150%; color:#FF0000"> Failure: Self-taught → Time wasted </span>
 
