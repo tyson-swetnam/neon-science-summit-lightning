@@ -95,7 +95,6 @@
 
 <span style="font-size: 100%; color:#FFFF00"> Edge Computing </span> <!-- .element: class="fragment" -->
 
----?image=https://emtemp.gcom.cloud/ngw/globalassets/en/research/images/illustrations/researchmethodology-illustration-hype-cycle.jpg
 
 ---?image=https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif
 <span style="font-size: 200%; color:#FFFFFF"> Cyberinfrastructure </span>
@@ -233,45 +232,7 @@ Cloud Object Storage - S3, GCP
 
 ---?image=https://media.giphy.com/media/l4HnN3TbBNYZbeEdq/giphy.gif
 
-## THE TROUGH OF DISALLUSIONMENT
-
----
-
-##### WHICH SfM sUAS SOFTWARE??
-<img src="assets/imagery/dreaming.png" width="500">
-+++
-<img src="https://pbs.twimg.com/media/Czf37xpWIAIc1-M.jpg" height="75">
-<img src="https://www.integraldrones.com.au/wp-content/uploads/2016/06/Drone-deploy-image-2.jpg" height="75">
-<img src="http://store.jdrones.com/v/vspfiles/photos/swpix4dpro01-2.jpg" height="75">
-<img src="https://droneparts.de/media/image/fb/bb/03/Metashape_logo_.jpg" height="75">
-<img src="https://uasweekly.com/wp-content/uploads/2017/06/Flyt-base-logo-1-copy.jpg" height="75">
-<img src="https://d3pcsg2wjq9izr.cloudfront.net/files/51634/images/1.FarmersEdge-400.png" height="75">
-<img src="http://jttaylor.net/gis/drone2map/images/drone2map-icon.jpg" height="75">
-<img src="http://www.customerbliss.com/wp-content/uploads/2016/06/Esri-Logo-Compact.png" height="75">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/QGIS_logo%2C_2017.svg/1280px-QGIS_logo%2C_2017.svg.png" height="75">
-
-+++
-
-## sUAS Bottlenecks
-
-<span style="font-size: 100%; color:#FF0000"> Difficult to build and fly </span> <!-- .element: class="fragment" -->
-
-<span style="font-size: 100%; color:#58FF33"> Needs integration across systems (Camera, RTK GNSS, lidar, etc) </span> <!-- .element: class="fragment" -->
-
-<span style="font-size: 100%; color:#F9FF33"> Big Data → Requires massive computer processing </span> <!-- .element: class="fragment" -->
-
----?image=assets/imagery/meta.jpg
----?image=assets/imagery/agisoft_network.png
-
-
----?image=https://media.giphy.com/media/1SMYk3HBzaK3e/giphy.gif
-@snap[west text-smallcaps text-white]
-CubeSats
-@snapend
-
-@snap[east text-smallcaps text-white]
-sUAS
-@snapend
+## GIS in Cloud
 
 +++
 
@@ -283,21 +244,16 @@ sUAS
 
 +++
 
-
-<img src="https://purepng.com/public/uploads/large/purepng.com-lemonlemoncitrus-limoyellow-fruitjuicelemonade-1701527236535iw9tf.png" height="200">
-
-<span style="font-size: 150%; color:#F9FF33"> Act IV: Publishing your work </span>
-
 ---?image=https://media.giphy.com/media/uKpWZU3VXLprW/giphy.gif
-<span style="font-weight: bold; font-size: 200%; color:#FFFFFF"> Getting through Peer Review </span>
+<span style="font-size: 150%; color:#F9FF33"> Act IV: Getting through Peer Review </span>
 
 ---?image=https://wol-prod-cdn.literatumonline.com/cms/attachment/e4ecd5f8-d7f6-41a1-9984-c23a09db5b33/ecs21797-fig-0003-m.jpg
 ## Landscape scale C balances
 
 +++
-<span style="font-size: 200%; color:#FF0000"> Challenge </span>
+<span style="font-size: 200%; color:#FF0000"> Reviewer #2 </span>
 
-<span style="font-size: 100%; color:#FFFF00"> Reviewer #2 → "a comprehensive uncertainty analyses is required for publication in this journal"  </span> <!-- .element: class="fragment" --> <img src="https://media.giphy.com/media/l4Ki6oZ4oPrrgLl9m/giphy.gif" height="200"> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> "a comprehensive uncertainty analyses is required for publication in this journal"  </span> <!-- .element: class="fragment" --> <img src="https://media.giphy.com/media/l4Ki6oZ4oPrrgLl9m/giphy.gif" height="200"> <!-- .element: class="fragment" -->
 
 +++
 
@@ -341,11 +297,13 @@ http://learning.cyverse.org/en/latest/
 
 <img src="https://static.wixstatic.com/media/1f832b_cbc41b96ceab44298f7522fa7ad9b7fe~mv2.jpg" width="800">
 
-Foundational Open Science Skills (FOSS) Feb 17–21 2020
++++
 
-CyVerse Container Camp, March 10-13 2020
+#### Foundational Open Science Skills (FOSS) Feb 17–21 2020
 
-https://www.cyverse.org
+#### Container Camp, March 10-13 2020
+
+https://www.cyverse.org/foss 
 
 Location: University of Arizona, Tucson AZ
 
