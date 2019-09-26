@@ -15,7 +15,7 @@
 <img src="assets/imagery/cyverse_globe_white.png" height="200">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Arizona_Wildcats_logo.svg/1108px-Arizona_Wildcats_logo.svg.png" height="200">
 
-#### Wildland Firefighter → Forest Ecology PhD → Informatician → Research Professor
+#### Wildland Firefighter → PhD → Informatician → Research Professor
 
 <img src="assets/imagery/tyson.jpg" height="200">
 <img src="assets/imagery/rushmore.jpg" height="200">
