@@ -112,11 +112,15 @@
 +++
 
 <img src="https://media.giphy.com/media/GkQBupPcf5b1e/giphy.gif" height="200">
+
 <span style="font-weight: bold; font-size: 150%; color:#FFFFFF"> NOT YOUR LAPTOP OR DESKTOP </span>
 
 <span style="font-size: 100%; color:#FFFF00"> Work remotely </span> <!-- .element: class="fragment" -->
+
 <span style="font-size: 100%; color:#FFFF00"> Data Management Systems </span> <!-- .element: class="fragment" -->
+
 <span style="font-size: 100%; color:#FFFF00"> Workflow Management Systems </span> <!-- .element: class="fragment" -->
+
 +++
 
 <span style="font-weight: bold; font-size: 150%; color:#FFFFFF"> Data Management Systems </span>
@@ -155,11 +159,8 @@ Cloud Object Storage - S3, GCP
 - Reproducibility is hard across platforms <!-- .element: class="fragment" -->
 - Portability <!-- .element: class="fragment" --> **& _Scalability_** <!-- .element: class="fragment" -->
 
-<img src="assets/imagery/vertical_large.png" width="200"> 
+<img src="assets/imagery/vertical_large.png" height="150"> <img src="https://c7.uihere.com/files/424/44/856/kubernetes-orchestration-docker-google-cloud-platform-lxc-cloud-computing.jpg" height="150">
 +++
-
-##### CONTAINERS
-
 
 ##### SERVICES
 <img src="https://www.logolynx.com/images/logolynx/11/11176029fe5b1cb338bc7cc437aee68d.png" height="75">
@@ -203,16 +204,12 @@ Cloud Object Storage - S3, GCP
 
 ---?image=assets/imagery/cereus.png
 
----?image=https://media.giphy.com/media/1SMYk3HBzaK3e/giphy.gif
-@snap[west text-smallcaps text-white]
-Aircraft lidar
-@snapend
-
-@snap[east text-smallcaps text-white]
-sUAS SfM
-@snapend
-
 +++
+
+---?image=https://media.giphy.com/media/ncsEqTn98T1GHVq62k/giphy.gif
+<span style="font-size: 150%; color:#F9FF33"> Act III: Earth Observation Systems </span>
+
+---?image=asssets/imagery/hdr_low.png
 
 ---?image=https://media.giphy.com/media/ZNKTKocoj8e973Wptz/giphy.gif
 ## sUAS are AWESOME!
@@ -266,11 +263,6 @@ sUAS SfM
 ---?image=assets/imagery/meta.jpg
 ---?image=assets/imagery/agisoft_network.png
 
-+++
-
-<img src="https://purepng.com/public/uploads/large/purepng.com-lemonlemoncitrus-limoyellow-fruitjuicelemonade-1701527236535iw9tf.png" height="200">
-
-<span style="font-size: 150%; color:#F9FF33"> Act III: Earth Observation Systems </span>
 
 ---?image=https://media.giphy.com/media/1SMYk3HBzaK3e/giphy.gif
 @snap[west text-smallcaps text-white]
