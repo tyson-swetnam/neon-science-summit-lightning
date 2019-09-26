@@ -311,6 +311,7 @@ sUAS
 
 <span style="font-size: 100%; color:#FFFF00"> → Analyze data in CyVerse cyberinfrastructure </span> <!-- .element: class="fragment" --> <a href="https://de.cyverse.org/de/?type=quick-launch&quick-launch-id=12f25023-b6b1-4f23-bbcc-49f0295da8c4&app-id=07e2b2e6-becd-11e9-b524-008cfa5ae621" target="_blank"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a> <!-- .element: class="fragment" -->
 
++++
 
 ### Get stuff done.
 
@@ -320,6 +321,34 @@ sUAS
 
 <span style="font-size: 200%; color:#58FF33"> 3) Do the thing well. <!-- .element: class="fragment" -->
   
++++
+
+### Gain Data Science Skills
+
+<img src="https://carpentries.org/images/TheCarpentries-opengraph.png" width="800">
+
+https://carpentries.org
+
++++
+
+### [The Learning Center](http://learning.cyverse.org/en/latest/) 
+
+<img src="assets/imagery/Learningcenter_white.png" height="200"> 
+
+http://learning.cyverse.org/en/latest/
+
++++
+
+<img src="https://static.wixstatic.com/media/1f832b_cbc41b96ceab44298f7522fa7ad9b7fe~mv2.jpg" width="800">
+
+Foundational Open Science Skills (FOSS) Feb 17–21 2020
+
+CyVerse Container Camp, March 10-13 2020
+
+https://www.cyverse.org
+
+Location: University of Arizona, Tucson AZ
+
 ---
 
 ## Acknowledgments
