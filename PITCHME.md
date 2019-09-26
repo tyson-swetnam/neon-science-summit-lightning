@@ -23,13 +23,11 @@
 
 <span style="font-size: 100%; color:#FF0000"> Circa 2008 AD </span>
 
-<img src="https://pbs.twimg.com/media/DYYTEBFVAAAj01u?format=jpg" height="150">
+<img src="https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/c/9e/c9e4b766-4355-5659-9e1f-fcb982dc91b5/597bea45d1884.image.jpg" height="250">
 
 <span style="font-size: 100%; color:#FFFF00"> PhD project: estimate landscape scale forest C </span> <!-- .element: class="fragment" -->
 
 <span style="font-size: 100%; color:#FFFF00"> → Hey here's some lidar data, good luck! </span> <!-- .element: class="fragment" --> 
-
-<img src="https://media.giphy.com/media/NMkDjJP2ZC29G/giphy.gif" height="150"> <!-- .element: class="fragment" -->
 
 +++ 
 
