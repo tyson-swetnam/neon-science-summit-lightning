@@ -1,5 +1,6 @@
----?image=https://media.giphy.com/media/l2SpUGS7cSy1YEpYQ/giphy.gif
 <span style="font-weight: bold; font-size: 200%; color:#ffffff"> All the Things
+
+<img src="http://rank-all-the-things.herokuapp.com/images/all_the_things.png" height="300"> 
 
 <span style="font-weight: bold; font-size: 100%; color:#ffffff"> October 1, 2019 </span> 
 
@@ -26,9 +27,7 @@
 
 <span style="font-size: 100%; color:#FFFF00"> PhD project: estimate landscape scale forest C </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#FFFF00"> → Hey here's some lidar data, good luck! </span> <!-- .element: class="fragment" --> 
-
-<img src="https://media.giphy.com/media/NMkDjJP2ZC29G/giphy.gif" height="150"> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → Hey here's some lidar data, good luck! </span> <!-- .element: class="fragment" --> <img src="https://media.giphy.com/media/NMkDjJP2ZC29G/giphy.gif" height="150"> <!-- .element: class="fragment" -->
 
 +++ 
 
@@ -64,6 +63,10 @@
 
 <span style="font-size: 100%; color:#FFFF00"> → Technology is continuing to advance </span> <!-- .element: class="fragment" -->
 
+<img src="https://media.giphy.com/media/kBIRGYDsEIoGk/giphy.gif" height="150"> 
+
++++
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Alice_queen2.jpg" height="250"> <!-- .element: class="fragment" -->
     
 +++
@@ -96,25 +99,69 @@
 
 <span style="font-size: 150%; color:#FF0000"> Working with big data </span>
 
-<img src="https://media.giphy.com/media/C5ldgOqYRbPGg/giphy.gif" height="200">
+<img src="https://media.giphy.com/media/C5ldgOqYRbPGg/giphy.gif" height="300">
 
 <span style="font-size: 100%; color:#FFFF00"> GB </span> <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#FFFF00"> → TB </span> <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#FFFF00"> → PB </span> <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#FFFF00"> → EB </span> <!-- .element: class="fragment" -->
 
++++
+
 <img src="https://media.giphy.com/media/GkQBupPcf5b1e/giphy.gif" height="200">
-<span style="font-weight: bold; font-size: 250%; color:#FFFFFF"> NOT YOUR LAPTOP OR DESKTOP </span>
+<span style="font-weight: bold; font-size: 150%; color:#FFFFFF"> NOT YOUR LAPTOP OR DESKTOP </span>
 
-<span style="font-size: 100%; color:#FFFF00"> Working remotely </span> <!-- .element: class="fragment" -->
-<span style="font-size: 100%; color:#FFFF00"> Managing big data sets </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> Work remotely </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> Data Management Systems </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> Workflow Management Systems </span> <!-- .element: class="fragment" -->
 +++
 
-Data Management Systems
+<span style="font-weight: bold; font-size: 150%; color:#FFFFFF"> Data Management Systems </span>
+
+CyberGIS - Google Earth Engine
+
+THREDDS, FTP, 
+
+Cloud Object Storage - S3, GCP
 
 +++
 
-Workflow Management Systems
+<span style="font-weight: bold; font-size: 150%; color:#FFFFFF">  Workflow Management Systems </span>
 
 +++
 
+*different OS + third party software + updates/upgrades + redeployment* → 
+ <span style="font-weight: bold; font-size: 100%; color:#FF0000">_Dependency Hell_ </span> 
+ 
+<img src="https://imgs.xkcd.com/comics/python_environment_2x.png" height="400"> <!-- .element: class="fragment" --> <img src="https://pbs.twimg.com/media/DB6QcoNVYAA-w6N.jpg" height="400"> <!-- .element: class="fragment" -->
+
+ <span style="font-weight: bold; font-size: 50%; color:#FF0000"> Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf </span> 
+ 
++++ 
+
+## Solution: Containerize software, run it anywhere. 
+
+<img src="assets/imagery/ocelote.jpg" height="230">  <img src="https://cdn-images-1.medium.com/max/1600/1*yo62B91F4V1QIJYirBbxlQ.jpeg" height="230"> 
+
++++
+
+## Why Containerize?
+
+- Dependencies turn into wicked problems <!-- .element: class="fragment" -->
+- Compiling software is sloooowww <!-- .element: class="fragment" -->
+- Reproducibility is hard across platforms <!-- .element: class="fragment" -->
+- Portability <!-- .element: class="fragment" --> **& _Scalability_** <!-- .element: class="fragment" -->
+
+<img src="assets/imagery/vertical_large.png" width="200"> 
++++
+
+##### CONTAINERS
+
+
+##### SERVICES
+<img src="https://www.logolynx.com/images/logolynx/11/11176029fe5b1cb338bc7cc437aee68d.png" height="75">
+<img src="https://nordicapis.com/wp-content/uploads/Azure-logo.png" height="75">
+<img src="http://www.thatlazyadmin.com/wp-content/uploads/2017/09/google-cloud-logo.png" height="75">
+
+
++++
 [Alan Perlis, 1982 Epigrams on Programming](https://web.archive.org/web/19990117034445/http://www-pu.informatik.uni-tuebingen.de/users/klaeren/epigrams.html)
 
 **54. Beware of the Turing Tarpit in which everything is possible but nothing of interest is easy.**
@@ -186,6 +233,21 @@ sUAS SfM
 ## THE TROUGH OF DISALLUSIONMENT
 
 ---
+
+##### WHICH SfM sUAS SOFTWARE??
+<img src="assets/imagery/dreaming.png" width="500">
++++
+<img src="https://pbs.twimg.com/media/Czf37xpWIAIc1-M.jpg" height="75">
+<img src="https://www.integraldrones.com.au/wp-content/uploads/2016/06/Drone-deploy-image-2.jpg" height="75">
+<img src="http://store.jdrones.com/v/vspfiles/photos/swpix4dpro01-2.jpg" height="75">
+<img src="https://droneparts.de/media/image/fb/bb/03/Metashape_logo_.jpg" height="75">
+<img src="https://uasweekly.com/wp-content/uploads/2017/06/Flyt-base-logo-1-copy.jpg" height="75">
+<img src="https://d3pcsg2wjq9izr.cloudfront.net/files/51634/images/1.FarmersEdge-400.png" height="75">
+<img src="http://jttaylor.net/gis/drone2map/images/drone2map-icon.jpg" height="75">
+<img src="http://www.customerbliss.com/wp-content/uploads/2016/06/Esri-Logo-Compact.png" height="75">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/QGIS_logo%2C_2017.svg/1280px-QGIS_logo%2C_2017.svg.png" height="75">
+
++++
 
 ## sUAS Bottlenecks
 
