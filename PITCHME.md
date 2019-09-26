@@ -27,7 +27,9 @@
 
 <span style="font-size: 100%; color:#FFFF00"> PhD project: estimate landscape scale forest C </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#FFFF00"> → Hey here's some lidar data, good luck! </span> <!-- .element: class="fragment" --> <img src="https://media.giphy.com/media/NMkDjJP2ZC29G/giphy.gif" height="150"> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → Hey here's some lidar data, good luck! </span> <!-- .element: class="fragment" --> 
+
+<img src="https://media.giphy.com/media/NMkDjJP2ZC29G/giphy.gif" height="150"> <!-- .element: class="fragment" -->
 
 +++ 
 
@@ -51,19 +53,23 @@
 
 <span style="font-size: 100%; color:#FFFF00"> → Comfortable working with big data </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#FFFF00"> → Endless data streams from 3DEP, NEON, sUAS </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → Endless data streams from 3DEP, NEON, GEE, NASA EOS, Planet, sUAS </span> <!-- .element: class="fragment" -->
 
 <span style="font-size: 100%; color:#FFFF00"> → Nearly limitless processing with cloud and HPC </span> <!-- .element: class="fragment" -->
 
 +++
 
+<img src="https://media.giphy.com/media/kBIRGYDsEIoGk/giphy.gif" height="150"> 
+
 <span style="font-size: 150%; color:#FF0000"> New Challenges </span> 
 
-<span style="font-size: 100%; color:#FFFF00"> → Only few people do these things </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → Only a few people work with these </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#FFFF00"> → Technology is continuing to advance </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → No one person can do all these things </span> <!-- .element: class="fragment" -->
 
-<img src="https://media.giphy.com/media/kBIRGYDsEIoGk/giphy.gif" height="150"> 
+<span style="font-size: 100%; color:#FFFF00"> → Technology continuing to advance exponentially </span> <!-- .element: class="fragment" -->
+
+<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" height="150"> <!-- .element: class="fragment" -->
 
 +++
 
