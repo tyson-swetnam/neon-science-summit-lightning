@@ -159,16 +159,17 @@ Cloud Object Storage - S3, GCP
 - Reproducibility is hard across platforms <!-- .element: class="fragment" -->
 - Portability <!-- .element: class="fragment" --> **& _Scalability_** <!-- .element: class="fragment" -->
 
-<img src="assets/imagery/vertical_large.png" height="150"> <img src="https://c7.uihere.com/files/424/44/856/kubernetes-orchestration-docker-google-cloud-platform-lxc-cloud-computing.jpg" height="150">
-+++
-
-##### SERVICES
-<img src="https://www.logolynx.com/images/logolynx/11/11176029fe5b1cb338bc7cc437aee68d.png" height="75">
-<img src="https://nordicapis.com/wp-content/uploads/Azure-logo.png" height="75">
-<img src="http://www.thatlazyadmin.com/wp-content/uploads/2017/09/google-cloud-logo.png" height="75">
-
+<img src="assets/imagery/vertical_large.png" height="150"> <img src="https://logos-download.com/wp-content/uploads/2018/09/Kubernetes_Logo.png" height="150">
 
 +++
+
+##### PRIVATE CLOUD SERVICES
+<img src="https://www.logolynx.com/images/logolynx/11/11176029fe5b1cb338bc7cc437aee68d.png" height="175">
+<img src="https://nordicapis.com/wp-content/uploads/Azure-logo.png" height="175">
+<img src="http://www.thatlazyadmin.com/wp-content/uploads/2017/09/google-cloud-logo.png" height="175">
+
++++
+
 [Alan Perlis, 1982 Epigrams on Programming](https://web.archive.org/web/19990117034445/http://www-pu.informatik.uni-tuebingen.de/users/klaeren/epigrams.html)
 
 **54. Beware of the Turing Tarpit in which everything is possible but nothing of interest is easy.**
