@@ -209,7 +209,7 @@ Cloud Object Storage - S3, GCP
 ---?image=https://media.giphy.com/media/ncsEqTn98T1GHVq62k/giphy.gif
 <span style="font-size: 150%; color:#F9FF33"> Act III: Earth Observation Systems </span>
 
----?image=asssets/imagery/hdr_low.png
+---?image=assets/imagery/hdr_low.png
 
 ---?image=https://media.giphy.com/media/ZNKTKocoj8e973Wptz/giphy.gif
 ## sUAS are AWESOME!
