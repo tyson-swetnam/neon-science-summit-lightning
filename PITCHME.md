@@ -23,7 +23,7 @@
 
 <span style="font-size: 100%; color:#FF0000"> Circa 2008 AD </span>
 
-<img src="https://media.giphy.com/media/6Pv2uDUmkg1qM/giphy.gif" height="150">
+<img src="https://pbs.twimg.com/media/DYYTEBFVAAAj01u?format=jpg" height="150">
 
 <span style="font-size: 100%; color:#FFFF00"> PhD project: estimate landscape scale forest C </span> <!-- .element: class="fragment" -->
 
@@ -60,7 +60,7 @@
 +++
 <span style="font-size: 100%; color:#FF0000"> New Challenges </span> 
 
-<img src="https://media.giphy.com/media/kBIRGYDsEIoGk/giphy.gif" height="100"> 
+<img src="https://media.giphy.com/media/kBIRGYDsEIoGk/giphy.gif" height="150"> <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" height="150"> 
 
 <span style="font-size: 100%; color:#FFFF00"> → Only a few people can work with these </span> <!-- .element: class="fragment" -->
 
@@ -68,9 +68,9 @@
 
 <span style="font-size: 100%; color:#FFFF00"> → Technology continues to advance at exponential rate </span> <!-- .element: class="fragment" -->
 
-<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" height="150"> <!-- .element: class="fragment" -->
-
 +++
+
+<span style="font-size: 100%; color:#FF0000"> A Red Queen's Race </span> 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Alice_queen2.jpg" height="450"> <!-- .element: class="fragment" -->
     
@@ -91,9 +91,9 @@
 
 <span style="font-size: 100%; color:#FFFF00"> FAIR Data Principles </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#FFFF00"> Internet of Things (IoT) </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> Research Objects </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#FFFF00"> Edge Computing </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> Internet of Things (IoT) & Edge Computing </span> <!-- .element: class="fragment" -->
 
 
 ---?image=https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif
@@ -101,7 +101,7 @@
 
 +++
 
-<span style="font-size: 150%; color:#FF0000"> Working with big data </span>
+<span style="font-size: 150%; color:#FF0000"> Working with big data yet? </span>
 
 <img src="https://media.giphy.com/media/C5ldgOqYRbPGg/giphy.gif" height="300">
 
@@ -109,15 +109,13 @@
 
 +++
 
-<img src="https://media.giphy.com/media/GkQBupPcf5b1e/giphy.gif" height="200">
-
-<span style="font-weight: bold; font-size: 150%; color:#FFFFFF"> NOT YOUR LAPTOP OR DESKTOP </span>
+<img src="https://media.giphy.com/media/GkQBupPcf5b1e/giphy.gif" height="400">
 
 <span style="font-size: 100%; color:#FFFF00"> Work remotely </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#FFFF00"> Data Management Systems </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> Utilize Data Management Systems </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#FFFF00"> Workflow Management Systems </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> Enage Workflow Management Systems </span> <!-- .element: class="fragment" -->
 
 +++
 
@@ -191,7 +189,10 @@ Cloud Object Storage - S3, GCP
 
 +++
 
----?image=http://mattturck.com/wp-content/uploads/2019/07/2019_Matt_Turck_Big_Data_Landscape_Final_Fullsize.png
+
+## Research Object
+
++++
 
 ---?image=assets/imagery/FOSS.png
 
