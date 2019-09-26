@@ -23,7 +23,7 @@
 
 +++
 
-<span style="font-size: 100%; color:#FF0000"> Circa 2008 AD </span>
+<span style="font-size: 150%; color:#FF0000"> Circa 2008 AD </span>
 
 <img src="https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/c/9e/c9e4b766-4355-5659-9e1f-fcb982dc91b5/597bea45d1884.image.jpg" height="250">
 
@@ -45,7 +45,7 @@
 
 +++
 
-<span style="font-size: 100%; color:#FF0000"> Circa 2019 AD </span>
+<span style="font-size: 150%; color:#FF0000"> Circa 2019 AD </span>
 
 <img src="https://media.giphy.com/media/bSv4dJP24GwLtaRkbD/giphy.gif" height="150"> 
 
@@ -58,9 +58,9 @@
 <span style="font-size: 100%; color:#FFFF00"> → Nearly limitless processing with cloud and HPC </span> <!-- .element: class="fragment" -->
 
 +++
-<span style="font-size: 100%; color:#FF0000"> New Challenges </span> 
+<span style="font-size: 150%; color:#FF0000"> New Challenges </span> 
 
-<img src="https://media.giphy.com/media/kBIRGYDsEIoGk/giphy.gif" height="150"> <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" height="150"> 
+<img src="https://media.giphy.com/media/kBIRGYDsEIoGk/giphy.gif" height="200"> <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" height="200"> 
 
 <span style="font-size: 100%; color:#FFFF00"> → Only a few people can work with these </span> <!-- .element: class="fragment" -->
 
@@ -70,7 +70,7 @@
 
 +++
 
-<span style="font-size: 100%; color:#FF0000"> A Red Queen's Race </span> 
+<span style="font-size: 150%; color:#FF0000"> A Red Queen's Race </span> 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Alice_queen2.jpg" height="450"> <!-- .element: class="fragment" -->
     
