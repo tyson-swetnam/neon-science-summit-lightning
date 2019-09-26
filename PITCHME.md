@@ -58,22 +58,21 @@
 <span style="font-size: 100%; color:#FFFF00"> → Nearly limitless processing with cloud and HPC </span> <!-- .element: class="fragment" -->
 
 +++
+<span style="font-size: 100%; color:#FF0000"> New Challenges </span> 
 
-<img src="https://media.giphy.com/media/kBIRGYDsEIoGk/giphy.gif" height="150"> 
+<img src="https://media.giphy.com/media/kBIRGYDsEIoGk/giphy.gif" height="100"> 
 
-<span style="font-size: 150%; color:#FF0000"> New Challenges </span> 
-
-<span style="font-size: 100%; color:#FFFF00"> → Only a few people work with these </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → Only a few people can work with these </span> <!-- .element: class="fragment" -->
 
 <span style="font-size: 100%; color:#FFFF00"> → No one person can do all these things </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#FFFF00"> → Technology continuing to advance exponentially </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → Technology continues to advance at exponential rate </span> <!-- .element: class="fragment" -->
 
 <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" height="150"> <!-- .element: class="fragment" -->
 
 +++
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Alice_queen2.jpg" height="250"> <!-- .element: class="fragment" -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Alice_queen2.jpg" height="450"> <!-- .element: class="fragment" -->
     
 +++
 
