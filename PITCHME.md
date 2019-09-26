@@ -13,11 +13,13 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/US-NationalParkService-Logo.svg/1000px-US-NationalParkService-Logo.svg.png" height="200">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_the_United_States_Forest_Service.svg/941px-Logo_of_the_United_States_Forest_Service.svg.png" height="200">
 <img src="assets/imagery/cyverse_globe_white.png" height="200">
+<img src="http://www.bio5.org/sites/default/files/sharedimages/BIO5%20logo%20press%20release.png" height="200">
 
-#### Wildland Firefighter → Forest Ecology PhD
+#### Wildland Firefighter → Forest Ecology PhD → Informatician → Research Professor
 
 <img src="assets/imagery/tyson.jpg" height="200">
 <img src="assets/imagery/rushmore.jpg" height="200">
+<img src="https://static.wixstatic.com/media/a80b4a_d25b49607bce445fa129cd729f8fa7c7~mv2.jpg" height="200">
 
 +++
 
@@ -39,7 +41,7 @@
 
 <span style="font-size: 100%; color:#FFFF00"> → Limited processing and storage options </span> <!-- .element: class="fragment" --> 
 
-<img src="https://media.giphy.com/media/tJpR7sRijUo9vAUu1j/giphy.gif " height="150">
+<img src="https://media.giphy.com/media/tJpR7sRijUo9vAUu1j/giphy.gif " height="250">
 
 +++
 
