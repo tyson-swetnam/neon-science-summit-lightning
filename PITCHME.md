@@ -159,6 +159,12 @@ Cloud Object Storage - S3, GCP
 
 +++
 
+---?image=assets/imagery/FOSS.jpeg
+
+---?image=https://media.giphy.com/media/iOXMcT2qEiIUg/giphy.gif
+
++++
+
 ##### PRIVATE CLOUD SERVICES
 <img src="https://www.logolynx.com/images/logolynx/11/11176029fe5b1cb338bc7cc437aee68d.png" height="175">
 <img src="https://nordicapis.com/wp-content/uploads/Azure-logo.png" height="175">
@@ -177,26 +183,6 @@ Cloud Object Storage - S3, GCP
 ### Building the "best" workflows and pipelines takes time and experience
 
 <img src="https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/edgeoftomorrow-livedierepeat-cruise-blunt-postercrop.jpg" width="800">
-
-+++
-
-## The FAIR data principles
-
-<span style="font-size: 100%; color:#FFFF00"> Findable </span> <!-- .element: class="fragment" -->
-<span style="font-size: 100%; color:#FFFF00"> Accessible </span> <!-- .element: class="fragment" -->
-<span style="font-size: 100%; color:#FFFF00"> Interoperable </span> <!-- .element: class="fragment" -->
-<span style="font-size: 100%; color:#FFFF00"> Reusable </span> <!-- .element: class="fragment" -->
-
-+++
-
-
-## Research Object
-
-+++
-
----?image=assets/imagery/FOSS.jpeg
-
----?image=https://media.giphy.com/media/iOXMcT2qEiIUg/giphy.gif
 
 +++
 
@@ -224,7 +210,6 @@ Cloud Object Storage - S3, GCP
 <span style="font-size: 100%; color:#F9FF33"> Cheap </span> <!-- .element: class="fragment" -->
 
 ---?image=https://media.giphy.com/media/l0HlDHQEiIdY3kxlm/giphy.gif
-
 ## sUAS can cause PTSD
 
 ---?image=assets/imagery/firefly6_crash2.jpg
@@ -233,20 +218,42 @@ Cloud Object Storage - S3, GCP
 
 ---?image=https://media.giphy.com/media/l4HnN3TbBNYZbeEdq/giphy.gif
 
-## GIS in Cloud
+---?image=https://pbs.twimg.com/media/C6m669VU8AA5og-?format=jpg
+## GIS in Cloud and on HPC
 
 +++
 
 ## GEE
 
+<img src="https://miro.medium.com/max/3200/0*ENHqiVmdGZce2Y9O" height="400">
+
+<span style="font-size: 100%; color:#FFFF00"> → Build your own apps </span> <!-- .element: class="fragment" -->
+
 +++
 
-## CubeSats
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Planet_Labs_logo.svg/1200px-Planet_Labs_logo.svg.png" height="100">
+
+<img src="https://www.planet.com/assets/images/approach/orbit-operations.jpg" height="400">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Planet_Labs_satellite_launch_from_ISS.jpg/2560px-Planet_Labs_satellite_launch_from_ISS.jpg" height="400">
 
 +++
 
 ---?image=https://media.giphy.com/media/uKpWZU3VXLprW/giphy.gif
 <span style="font-size: 150%; color:#F9FF33"> Act IV: Getting through Peer Review </span>
+
++++
+
+## The FAIR data principles
+
+<span style="font-size: 100%; color:#FFFF00"> Findable </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> Accessible </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> Interoperable </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> Reusable </span> <!-- .element: class="fragment" -->
+
++++
+
+## Research Object
+
 
 ---?image=https://wol-prod-cdn.literatumonline.com/cms/attachment/e4ecd5f8-d7f6-41a1-9984-c23a09db5b33/ecs21797-fig-0003-m.jpg
 ## Landscape scale C balances
@@ -254,7 +261,9 @@ Cloud Object Storage - S3, GCP
 +++
 <span style="font-size: 200%; color:#FF0000"> Reviewer #2 </span>
 
-<span style="font-size: 100%; color:#FFFF00"> "a comprehensive uncertainty analyses is required for publication in this journal"  </span> <!-- .element: class="fragment" --> <img src="https://media.giphy.com/media/l4Ki6oZ4oPrrgLl9m/giphy.gif" height="200"> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> "a comprehensive uncertainty analyses is required for publication in this journal"  </span> <!-- .element: class="fragment" --> 
+
+<img src="https://media.giphy.com/media/l4Ki6oZ4oPrrgLl9m/giphy.gif" height="200"> <!-- .element: class="fragment" -->
 
 +++
 
