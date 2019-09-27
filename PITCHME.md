@@ -103,33 +103,39 @@
 
 <span style="font-size: 150%; color:#FF0000"> Working with big data yet? </span>
 
-<img src="https://media.giphy.com/media/C5ldgOqYRbPGg/giphy.gif" height="300">
+<img src="---?https://media.giphy.com/media/l4HnN3TbBNYZbeEdq/giphy.gif" height="300">
 
 <span style="font-size: 100%; color:#FFFF00"> GB </span> <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#FFFF00"> → TB </span> <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#FFFF00"> → PB </span> <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#FFFF00"> → EB </span> <!-- .element: class="fragment" -->
 
 +++
 
-<img src="https://media.giphy.com/media/GkQBupPcf5b1e/giphy.gif" height="400">
+<img src="https://media.giphy.com/media/GkQBupPcf5b1e/giphy.gif" height="300">
 
-<span style="font-size: 100%; color:#FFFF00"> Work remotely </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> Work remotely on cloud and HPC </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#FFFF00"> Utilize Data Management Systems </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> (Distributed) Data Management Systems </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#FFFF00"> Enage Workflow Management Systems </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> Engage Workflow Management Systems </span> <!-- .element: class="fragment" -->
 
 +++
 
 <span style="font-weight: bold; font-size: 150%; color:#FFFFFF"> Data Management Systems </span>
 
-CyberGIS - Google Earth Engine
+CyberGIS (Google Earth Engine)<!-- .element: class="fragment" -->
 
-THREDDS, FTP, 
+Databases and Services (PostGIS, Postgresql, THREDDS, FTP, HTTPS, iRODS) <!-- .element: class="fragment" -->
 
-Cloud Object Storage - S3, GCP
+Cloud Object Storage (S3, GCP, Azure) <!-- .element: class="fragment" -->
 
 +++
 
 <span style="font-weight: bold; font-size: 150%; color:#FFFFFF">  Workflow Management Systems </span>
+
+ESRI Workflow Manager
+
+PanGeo
+
+Clowder
 
 +++
 
@@ -216,9 +222,7 @@ Cloud Object Storage - S3, GCP
 
 ---?image=assets/imagery/firefly_crash1.jpg
 
----?image=https://media.giphy.com/media/l4HnN3TbBNYZbeEdq/giphy.gif
-
----?image=https://pbs.twimg.com/media/C6m669VU8AA5og-?format=jpg
+---?image=assets/imagery/rsun_cpu.jpeg
 ## GIS in Cloud and on HPC
 
 +++
