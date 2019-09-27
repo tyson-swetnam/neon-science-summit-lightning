@@ -223,7 +223,7 @@ Clowder
 ---?image=assets/imagery/firefly_crash1.jpg
 
 ---?image=assets/imagery/rsun_cpu.jpg
-## GIS in Cloud and on HPC
+<span style="font-size: 150%; color:#FFFF00"> GIS in Cloud and on HPC </span>
 
 +++
 
@@ -237,8 +237,8 @@ Clowder
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Planet_Labs_logo.svg/1200px-Planet_Labs_logo.svg.png" height="100">
 
-<img src="https://www.planet.com/assets/images/approach/orbit-operations.jpg" height="400">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Planet_Labs_satellite_launch_from_ISS.jpg/2560px-Planet_Labs_satellite_launch_from_ISS.jpg" height="400">
+<img src="https://www.planet.com/assets/images/approach/orbit-operations.jpg" height="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Planet_Labs_satellite_launch_from_ISS.jpg/2560px-Planet_Labs_satellite_launch_from_ISS.jpg" height="300">
 
 +++
 
