@@ -222,7 +222,7 @@ Clowder
 
 ---?image=assets/imagery/firefly_crash1.jpg
 
----?image=assets/imagery/rsun_cpu.jpeg
+---?image=assets/imagery/rsun_cpu.jpg
 ## GIS in Cloud and on HPC
 
 +++
