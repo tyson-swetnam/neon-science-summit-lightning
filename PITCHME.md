@@ -103,7 +103,7 @@
 
 <span style="font-size: 150%; color:#FF0000"> Working with big data yet? </span>
 
-<img src="---?https://media.giphy.com/media/l4HnN3TbBNYZbeEdq/giphy.gif" height="300">
+<img src="https://media.giphy.com/media/l4HnN3TbBNYZbeEdq/giphy.gif" height="300">
 
 <span style="font-size: 100%; color:#FFFF00"> GB </span> <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#FFFF00"> → TB </span> <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#FFFF00"> → PB </span> <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#FFFF00"> → EB </span> <!-- .element: class="fragment" -->
 
