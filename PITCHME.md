@@ -111,11 +111,24 @@
 
 <img src="https://media.giphy.com/media/GkQBupPcf5b1e/giphy.gif" height="300">
 
-<span style="font-size: 100%; color:#FFFF00"> Work remotely on cloud and HPC </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> Work remotely on Cloud and HPC </span> <!-- .element: class="fragment" -->
 
 <span style="font-size: 100%; color:#FFFF00"> (Distributed) Data Management Systems </span> <!-- .element: class="fragment" -->
 
 <span style="font-size: 100%; color:#FFFF00"> Engage Workflow Management Systems </span> <!-- .element: class="fragment" -->
+
++++
+
+##### PRIVATE CLOUD SERVICES
+<img src="https://www.logolynx.com/images/logolynx/11/11176029fe5b1cb338bc7cc437aee68d.png" height="175">
+<img src="https://nordicapis.com/wp-content/uploads/Azure-logo.png" height="175">
+<img src="http://www.thatlazyadmin.com/wp-content/uploads/2017/09/google-cloud-logo.png" height="175">
+
++++
+
+##### PUBLIC CLOUD SERVICES
+<img src="/assets/imagery/cyverse_rgb.png" height="175">
+<img src="/assets/imagery/xsede.png" height="175">
 
 +++
 
@@ -168,13 +181,6 @@ Clowder
 ---?image=assets/imagery/FOSS.jpeg
 
 ---?image=https://media.giphy.com/media/iOXMcT2qEiIUg/giphy.gif
-
-+++
-
-##### PRIVATE CLOUD SERVICES
-<img src="https://www.logolynx.com/images/logolynx/11/11176029fe5b1cb338bc7cc437aee68d.png" height="175">
-<img src="https://nordicapis.com/wp-content/uploads/Azure-logo.png" height="175">
-<img src="http://www.thatlazyadmin.com/wp-content/uploads/2017/09/google-cloud-logo.png" height="175">
 
 +++
 
