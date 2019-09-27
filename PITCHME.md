@@ -194,7 +194,7 @@ Cloud Object Storage - S3, GCP
 
 +++
 
----?image=assets/imagery/FOSS.jpg
+---?image=assets/imagery/FOSS.jpeg
 
 ---?image=https://media.giphy.com/media/iOXMcT2qEiIUg/giphy.gif
 
