@@ -161,7 +161,7 @@ Makeflow
 <img src="http://ccl.cse.nd.edu/software/makeflow/MakeflowLogoSmall.png" height="100">
 <img src="http://ccl.cse.nd.edu/software/workqueue/WorkQueueLogoSmall.png" height="100">
 
-<img src="https://github.com/cooperative-computing-lab/makeflow-examples/blob/master/shrimp/shrimp.png" height="500">
+<img src="https://github.com/cooperative-computing-lab/makeflow-examples/shrimp/shrimp.png" height="500">
 
 +++
 
