@@ -228,6 +228,17 @@ Makeflow
 
 <span style="font-size: 100%; color:#F9FF33"> Cheap </span> <!-- .element: class="fragment" -->
 
++++
+
+---?image=assets/imagery/agisoft_network.png
+
++++
+
+---?image=https://raw.githubusercontent.com/opengeospatial/LANDRS/master/DesignDocs/images/LANDRS-logo/png/landrs-logo-full_md.png" height="100">
+---?image=https://raw.githubusercontent.com/opengeospatial/LANDRS/master/DesignDocs/images/DroneStrawmanConceptualModel.png" height="500">
+
++++
+
 ---?image=https://media.giphy.com/media/l0HlDHQEiIdY3kxlm/giphy.gif
 ## sUAS can cause PTSD
 
