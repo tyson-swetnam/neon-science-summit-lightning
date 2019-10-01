@@ -136,7 +136,7 @@
 
 CyberGIS (Google Earth Engine)<!-- .element: class="fragment" -->
 
-Databases and Services (PostGIS, Postgresql, THREDDS, FTP, HTTPS, iRODS) <!-- .element: class="fragment" -->
+Databases and Services (PostGIS, Postgresql, THREDDS, FTP, HTTPS, iRODS, Clowder) <!-- .element: class="fragment" -->
 
 Cloud Object Storage (S3, GCP, Azure) <!-- .element: class="fragment" -->
 
@@ -148,7 +148,20 @@ ESRI Workflow Manager
 
 PanGeo
 
-Clowder
+Makeflow
+
++++
+
+<img src="https://pangeo.io/_images/small_e_logo_cropped.png" height="100"> PanGeo
+
+<img src="https://pangeo.io/_images/pangeo_tech_1.png" height="600">
+
++++
+
+<img src="http://ccl.cse.nd.edu/software/makeflow/MakeflowLogoSmall.png" height="100">
+<img src="http://ccl.cse.nd.edu/software/workqueue/WorkQueueLogoSmall.png" height="100">
+
+<img src="https://github.com/cooperative-computing-lab/makeflow-examples/blob/master/shrimp/shrimp.png" height="600">
 
 +++
 
