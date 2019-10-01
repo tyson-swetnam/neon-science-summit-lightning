@@ -266,6 +266,10 @@ Makeflow
 
 +++
 
+---?image=assets/imagery/prescott.jpg
+
++++
+
 ---?image=https://media.giphy.com/media/uKpWZU3VXLprW/giphy.gif
 <span style="font-size: 150%; color:#F9FF33"> Act IV: Getting through Peer Review </span>
 
