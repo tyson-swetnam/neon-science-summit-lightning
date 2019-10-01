@@ -152,16 +152,16 @@ Makeflow
 
 +++
 
-<img src="https://pangeo.io/_images/small_e_logo_cropped.png" height="100"> PanGeo
+<img src="https://pangeo.io/_images/small_e_logo_cropped.png" height="100">
 
-<img src="https://pangeo.io/_images/pangeo_tech_1.png" height="600">
+<img src="https://pangeo.io/_images/pangeo_tech_1.png" height="500">
 
 +++
 
 <img src="http://ccl.cse.nd.edu/software/makeflow/MakeflowLogoSmall.png" height="100">
 <img src="http://ccl.cse.nd.edu/software/workqueue/WorkQueueLogoSmall.png" height="100">
 
-<img src="https://github.com/cooperative-computing-lab/makeflow-examples/blob/master/shrimp/shrimp.png" height="600">
+<img src="https://github.com/cooperative-computing-lab/makeflow-examples/blob/master/shrimp/shrimp.png" height="500">
 
 +++
 
@@ -246,11 +246,11 @@ Makeflow
 
 +++
 
-## GEE
+## CyberGIS: Google Earth Engine
+
+<span style="font-size: 100%; color:#FFFF00"> → Build your own apps, e.g. Climate Engine </span>
 
 <img src="https://miro.medium.com/max/3200/0*ENHqiVmdGZce2Y9O" height="400">
-
-<span style="font-size: 100%; color:#FFFF00"> → Build your own apps </span> <!-- .element: class="fragment" -->
 
 +++
 
