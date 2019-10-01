@@ -234,8 +234,8 @@ Makeflow
 
 +++
 
----?image=https://raw.githubusercontent.com/opengeospatial/LANDRS/master/DesignDocs/images/LANDRS-logo/png/landrs-logo-full_md.png" height="100">
----?image=https://raw.githubusercontent.com/opengeospatial/LANDRS/master/DesignDocs/images/DroneStrawmanConceptualModel.png" height="500">
+<img src="https://raw.githubusercontent.com/opengeospatial/LANDRS/master/DesignDocs/images/LANDRS-logo/png/landrs-logo-full_md.png" height="100">
+<img src="https://raw.githubusercontent.com/opengeospatial/LANDRS/master/DesignDocs/images/DroneStrawmanConceptualModel.png" height="500">
 
 +++
 
