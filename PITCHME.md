@@ -67,12 +67,6 @@
 <span style="font-size: 100%; color:#FFFF00"> → No one person can do all these things </span> <!-- .element: class="fragment" -->
 
 <span style="font-size: 100%; color:#FFFF00"> → Technology continues to advance at exponential rate </span> <!-- .element: class="fragment" -->
-
-+++
-
-<span style="font-size: 150%; color:#FF0000"> A Red Queen's Race </span> 
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Alice_queen2.jpg" height="450"> <!-- .element: class="fragment" -->
     
 +++
 
@@ -161,7 +155,7 @@ Makeflow
 <img src="http://ccl.cse.nd.edu/software/makeflow/MakeflowLogoSmall.png" height="100">
 <img src="http://ccl.cse.nd.edu/software/workqueue/WorkQueueLogoSmall.png" height="100">
 
-<img src="https://github.com/cooperative-computing-lab/makeflow-examples/shrimp/shrimp.png" height="500">
+<img src="https://raw.githubusercontent.com/cooperative-computing-lab/makeflow-examples/master/shrimp/shrimp.png" height="500">
 
 +++
 
