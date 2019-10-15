@@ -119,15 +119,15 @@
 
 <img src="https://carpentries.org/images/TheCarpentries-opengraph.png" width="800">
 
-https://carpentries.org
+<span style="font-size: 100%; color:#FFFF00"> https://carpentries.org </span>
 
 +++
 
-<span style="font-size: 200%; color:#FFFFFF"> The Learning Center </span>
+<span style="font-size: 150%; color:#FFFFFF"> The Learning Center </span>
 
 <img src="assets/imagery/Learningcenter_white.png" height="200"> 
 
-http://learning.cyverse.org/en/latest/
+<span style="font-size: 100%; color:#FFFF00"> http://learning.cyverse.org </span>
 
 +++
 
@@ -135,11 +135,11 @@ http://learning.cyverse.org/en/latest/
 
 +++
 
-<span style="font-size: 200%; color:#FFFFFF"> Foundational Open Science Skills (FOSS) Feb 17–21 2020 </span>
+<span style="font-size: 150%; color:#FFFFFF"> Foundational Open Science Skills (FOSS) Feb 17–21 2020 </span>
 
-<span style="font-size: 200%; color:#FFFFFF"> Container Camp, March 10-13 2020 </span>
+<span style="font-size: 150%; color:#FFFFFF"> Container Camp, March 10-13 2020 </span>
 
-https://www.cyverse.org/foss 
+<span style="font-size: 100%; color:#FFFF00"> https://www.cyverse.org/foss </span>
 
 Location: University of Arizona, Tucson AZ
 
