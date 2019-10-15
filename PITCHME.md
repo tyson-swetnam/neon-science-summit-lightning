@@ -42,11 +42,11 @@
 
 +++
 
-<span style="font-size: 150%; color:#FF0000"> Are you working with big data yet? </span>
+<span style="font-size: 100%; color:#FFFF00"> Are you working with big data yet? </span>
 
 <img src="https://media.giphy.com/media/l4HnN3TbBNYZbeEdq/giphy.gif" height="300">
 
-<span style="font-size: 100%; color:#FFFF00"> GB </span> <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#FFFF00"> → TB </span> <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#FFFF00"> → PB </span> <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#FFFF00"> → EB </span> <!-- .element: class="fragment" -->
+<span style="font-size: 150%; color:#FF0000"> GB </span> <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#FFFF00"> → TB </span> <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#FFFF00"> → PB </span> <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#FFFF00"> → EB </span> <!-- .element: class="fragment" -->
 
 +++
 
@@ -60,14 +60,14 @@
 
 +++
 
-##### PRIVATE CLOUD SERVICES
+<span style="font-size: 100%; color:#FFFF00"> PRIVATE CLOUD SERVICES </span>
 <img src="https://www.logolynx.com/images/logolynx/11/11176029fe5b1cb338bc7cc437aee68d.png" height="175">
 <img src="https://nordicapis.com/wp-content/uploads/Azure-logo.png" height="175">
 <img src="http://www.thatlazyadmin.com/wp-content/uploads/2017/09/google-cloud-logo.png" height="175">
 
 +++
 
-##### PUBLIC CLOUD SERVICES
+<span style="font-size: 100%; color:#FFFF00"> PUBLIC CLOUD SERVICES </span>
 <img src="/assets/imagery/cyverse_rgb.png" height="175">
 <img src="/assets/imagery/xsede.png" height="175">
 
