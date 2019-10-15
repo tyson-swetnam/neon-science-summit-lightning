@@ -115,7 +115,7 @@
   
 +++
 
-### Gain Data Science Skills
+<span style="font-size: 200%; color:#FFFFFF"> Gain Data Science Skills </span>
 
 <img src="https://carpentries.org/images/TheCarpentries-opengraph.png" width="800">
 
@@ -123,7 +123,7 @@ https://carpentries.org
 
 +++
 
-### [The Learning Center](http://learning.cyverse.org/en/latest/) 
+<span style="font-size: 200%; color:#FFFFFF"> The Learning Center </span>
 
 <img src="assets/imagery/Learningcenter_white.png" height="200"> 
 
@@ -135,9 +135,9 @@ http://learning.cyverse.org/en/latest/
 
 +++
 
-#### Foundational Open Science Skills (FOSS) Feb 17–21 2020
+<span style="font-size: 200%; color:#FFFFFF"> Foundational Open Science Skills (FOSS) Feb 17–21 2020 </span>
 
-#### Container Camp, March 10-13 2020
+<span style="font-size: 200%; color:#FFFFFF"> Container Camp, March 10-13 2020 </span>
 
 https://www.cyverse.org/foss 
 
