@@ -10,7 +10,7 @@
 
 <span style="font-size: 250%; color:#FFFF00"> Why am I here? </span> 
 
-<img src="https://media.giphy.com/media/zOSxTrEnUmHIY/giphy.gif" height="250">
+<img src="https://media.giphy.com/media/zOSxTrEnUmHIY/giphy.gif" height="300">
 
 
 +++
@@ -18,11 +18,11 @@
 
 <img src="https://media.giphy.com/media/kBIRGYDsEIoGk/giphy.gif" height="200"> <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" height="200"> 
 
-<span style="font-size: 100%; color:#FFFF00"> → Only a few of us know how to work with these platforms and data </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → Few know how to work with these data at scale </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#FFFF00"> → No one scientist can do all these things (well) </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → No one can do all these things </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#FFFF00"> → Technology continues to advance at exponential rate </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → Technology is advancing at exponential rate </span> <!-- .element: class="fragment" -->
    
 +++
 
@@ -38,7 +38,7 @@
 
 <span style="font-size: 100%; color:#FFFF00"> Research Objects </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#FFFF00"> Internet of Things (IoT) & Edge Computing </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> Internet of Things (IoT) & Edge Computing & Machine Learning </span> <!-- .element: class="fragment" -->
 
 +++
 
@@ -46,7 +46,7 @@
 
 <img src="https://media.giphy.com/media/l4HnN3TbBNYZbeEdq/giphy.gif" height="300">
 
-<span style="font-size: 100%; color:#FFFF00"> GB </span> <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#FFFF00"> → TB </span> <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#FFFF00"> → PB </span> <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#FFFF00"> → EB </span> <!-- .element: class="fragment" -->
+<span style="font-size: 200%; color:#FFFF00"> GB </span> <!-- .element: class="fragment" --> <span style="font-size: 200%; color:#FFFF00"> → TB </span> <!-- .element: class="fragment" --> <span style="font-size: 200%; color:#FFFF00"> → PB </span> <!-- .element: class="fragment" --> <span style="font-size: 200%; color:#FFFF00"> → EB </span> <!-- .element: class="fragment" -->
 
 +++
 
