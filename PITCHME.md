@@ -77,9 +77,7 @@
 
 <span style="font-size: 150%; color:#FFFF00"> Containerize software, run it anywhere </span>
 
-<img src="assets/imagery/ocelote.jpg" height="230">  <img src="https://cdn-images-1.medium.com/max/1600/1*yo62B91F4V1QIJYirBbxlQ.jpeg" height="230"> 
-
-+++
+<img src="https://cdn-images-1.medium.com/max/1600/1*yo62B91F4V1QIJYirBbxlQ.jpeg" height="350"> 
 
 ---?image=assets/imagery/FOSS.jpeg
 
@@ -97,11 +95,11 @@
 
 <span style="font-size: 100%; color:#FFFF00"> → Code on GitHub </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#FFFF00"> → Container on DockerHub </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → Containers on DockerHub </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#FFFF00"> → Reproducible notebooks in R </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → Reproducible Notebooks </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#FFFF00"> → Analyze data in CyVerse cyberinfrastructure </span> <!-- .element: class="fragment" --> <a href="https://de.cyverse.org/de/?type=quick-launch&quick-launch-id=12f25023-b6b1-4f23-bbcc-49f0295da8c4&app-id=07e2b2e6-becd-11e9-b524-008cfa5ae621" target="_blank"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → Analyze data in cyberinfrastructure </span> <!-- .element: class="fragment" --> <a href="https://de.cyverse.org/de/?type=quick-launch&quick-launch-id=12f25023-b6b1-4f23-bbcc-49f0295da8c4&app-id=07e2b2e6-becd-11e9-b524-008cfa5ae621" target="_blank"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a> <!-- .element: class="fragment" -->
 
 +++
 
@@ -128,10 +126,6 @@
 <img src="assets/imagery/Learningcenter_white.png" height="200"> 
 
 <span style="font-size: 100%; color:#FFFF00"> http://learning.cyverse.org </span>
-
-+++
-
-<img src="https://static.wixstatic.com/media/1f832b_cbc41b96ceab44298f7522fa7ad9b7fe~mv2.jpg" width="800">
 
 +++
 
