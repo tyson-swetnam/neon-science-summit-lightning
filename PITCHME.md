@@ -14,7 +14,7 @@
 
 
 +++
-<span style="font-size: 150%; color:#FF0000"> NEON Data Challenges </span> 
+<span style="font-size: 150%; color:#ffffff"> NEON Data Challenges </span> 
 
 <img src="https://media.giphy.com/media/kBIRGYDsEIoGk/giphy.gif" height="200"> <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" height="200"> 
 
@@ -26,7 +26,7 @@
    
 +++
 
-<span style="font-size: 150%; color:#FF0000"> Things you need to know about </span>
+<span style="font-size: 150%; color:#ffffff"> Things you need to know about </span>
 
 <span style="font-size: 100%; color:#FFFF00"> Cyberinfrastructure </span> <!-- .element: class="fragment" -->
 
@@ -42,11 +42,11 @@
 
 +++
 
-<span style="font-size: 100%; color:#FFFF00"> Are you working with big data yet? </span>
+<span style="font-size: 100%; color:#ffffff"> Are you working with big data yet? </span>
 
 <img src="https://media.giphy.com/media/l4HnN3TbBNYZbeEdq/giphy.gif" height="300">
 
-<span style="font-size: 150%; color:#FF0000"> GB </span> <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#FFFF00"> → TB </span> <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#FFFF00"> → PB </span> <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#FFFF00"> → EB </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> GB </span> <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#FFFF00"> → TB </span> <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#FFFF00"> → PB </span> <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#FFFF00"> → EB </span> <!-- .element: class="fragment" -->
 
 +++
 
@@ -60,20 +60,22 @@
 
 +++
 
-<span style="font-size: 100%; color:#FFFF00"> PRIVATE CLOUD SERVICES </span>
+<span style="font-size: 150%; color:#FFFF00"> PRIVATE CLOUD SERVICES </span>
+
 <img src="https://www.logolynx.com/images/logolynx/11/11176029fe5b1cb338bc7cc437aee68d.png" height="175">
 <img src="https://nordicapis.com/wp-content/uploads/Azure-logo.png" height="175">
 <img src="http://www.thatlazyadmin.com/wp-content/uploads/2017/09/google-cloud-logo.png" height="175">
 
 +++
 
-<span style="font-size: 100%; color:#FFFF00"> PUBLIC CLOUD SERVICES </span>
+<span style="font-size: 150%; color:#FFFF00"> PUBLIC CLOUD SERVICES </span>
+ 
 <img src="/assets/imagery/cyverse_rgb.png" height="175">
 <img src="/assets/imagery/xsede.png" height="175">
 
 +++ 
 
-## Containerize software, run it anywhere. 
+<span style="font-size: 150%; color:#FFFF00"> Containerize software, run it anywhere </span>
 
 <img src="assets/imagery/ocelote.jpg" height="230">  <img src="https://cdn-images-1.medium.com/max/1600/1*yo62B91F4V1QIJYirBbxlQ.jpeg" height="230"> 
 
@@ -85,7 +87,7 @@
 
 +++
 
-### Building the "best" workflows and pipelines takes time and experience
+<span style="font-size: 150%; color:#FFFF00"> Building the "best" workflows and pipelines takes time and experience </span>
 
 <img src="https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/edgeoftomorrow-livedierepeat-cruise-blunt-postercrop.jpg" width="800">
 
@@ -105,7 +107,7 @@
 
 ### Get stuff done.
 
-<span style="font-size: 200%; color:#FF0000"> 1) Do the things. <!-- .element: class="fragment" -->
+<span style="font-size: 200%; color:#FFFFFF"> 1) Do the things. <!-- .element: class="fragment" -->
 
 <span style="font-size: 200%; color:#F9FF33"> 2) Do the things right. <!-- .element: class="fragment" -->
 
