@@ -8,7 +8,7 @@
 
 +++
 
-<"https://media.giphy.com/media/zOSxTrEnUmHIY/giphy.gif" height="600">
+<img src="https://media.giphy.com/media/zOSxTrEnUmHIY/giphy.gif" height="600">
 
 
 +++
