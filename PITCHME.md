@@ -8,9 +8,7 @@
 
 +++
 
-<span style="font-size: 250%; color:#FFFF00"> Why am I here? </span> 
-
-<img src="https://media.giphy.com/media/zOSxTrEnUmHIY/giphy.gif" height="350">
+<img src="https://media.giphy.com/media/zOSxTrEnUmHIY/giphy.gif" height="600">
 
 
 +++
