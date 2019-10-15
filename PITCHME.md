@@ -70,7 +70,7 @@
 
 <span style="font-size: 150%; color:#FFFF00"> PUBLIC CLOUD SERVICES </span>
  
-<img src="/assets/imagery/cyverse_rgb.png" height="175">
+<img src="/assets/imagery/cyverse_rgb_white.png" height="175">
 <img src="/assets/imagery/xsede.png" height="175">
 
 +++ 
